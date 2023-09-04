@@ -1,0 +1,50 @@
+ProviderID,OperatorID,OperatorName,OperatorPhone,OperatorEmail,OperatorUrl,OperatorCode,AuthorityCode,SubAuthorityCode,OperatorNo,UpdateTime
+010,11,"{'Zh_tw': '中壢客運', 'En': 'Chungli Bus Co., Ltd.'}",(03)425-5722、0800-255722,cl.bus@msa.hinet.net,http://www.chunglibus.com.tw,ChungliBus,THB,THB-VO18-1,0404,2023-07-13T07:38:39+08:00
+010,113,{'Zh_tw': '東台灣客運'},,THB,THB-VO14-2,0816,2023-07-13T07:38:39+08:00
+010,114,{'Zh_tw': '興東客運'},,THB,THB-VO14-2,1602,2023-07-13T07:38:39+08:00
+010,12,"{'Zh_tw': '桃園客運', 'En': 'Taoyuan Bus Co., Ltd.'}",(03)375-3711、0800-053808,tybus＠ms18.hinet.net,http://www.tybus.com.tw,TaoyuanBus,THB,THB-VO18-1,1002,2023-07-13T07:38:39+08:00
+010,13,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",(03)522-5151~8,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,THB,THB-VO18-1,1303,2023-07-13T07:38:39+08:00
+010,14,"{'Zh_tw': '苗栗客運', 'En': 'Miaoli Bus Co., Ltd.'}",(037)-662111#3,http://www.mlbus.com.tw,MiaoliBus,THB,THB-VO18-1,0911,2023-07-13T07:38:39+08:00
+010,15,"{'Zh_tw': '台聯客運', 'En': 'Taiwan United Bus Co., Ltd.'}",(02)2796-5665,eservice@e-go.com.tw,http://www.e-go.com.tw,TaiwanUnitedBus,THB,THB-VO10-1,0502,2023-07-13T07:38:39+08:00
+010,16,"{'Zh_tw': '亞通客運', 'En': 'Yatung Bus Co., Ltd.'}",(02)2712-8795,orange.bus@msa.hinet.net,http://www.orangebus.com.tw,YatungBus,THB,THB-VO18-1,0702,2023-07-13T07:38:39+08:00
+010,17,"{'Zh_tw': '長榮國際儲運', 'En': 'Evergreen International Storage & Transport Corporation'}",(03)325-2076,http://www.evergreen-eitc.com.tw,EvergreenTransportCorporation,THB,THB-VO18-1,0809,2023-07-13T07:38:39+08:00
+010,18,"{'Zh_tw': '科技之星交通', 'En': 'KJ-Star Bus Co., Ltd.'}",(03)531-6632,http://www.yosemite-bus.com.tw,KJ-StarBus,THB,THB-VO18-1,0909,2023-07-13T07:38:39+08:00
+010,21,"{'Zh_tw': '臺西客運', 'En': 'Taisi Bus Co., Ltd.'}",(05)632-2284、0800-200079,tsbus322500@gmail.com,http://www.taisibus.com,TaisiBus,THB,THB-VO24-1,1408,2023-07-13T07:38:39+08:00
+010,22,"{'Zh_tw': '嘉義縣公車處', 'En': 'Chiayi County Bus Service Administration'}",(05)278-8177,bus.a6666@msa.hinet.net,http://www.cybus.gov.tw,ChiayiBusOffice,THB,THB-VO24-1,1402,2023-07-13T07:38:39+08:00
+010,23,"{'Zh_tw': '嘉義客運', 'En': 'Chiayi Bus Co., Ltd.'}",(05)275-0895,http://www.cibus.com.tw,ChiayiBus,THB,THB-VO24-1,1401,2023-07-13T07:38:39+08:00
+010,25,"{'Zh_tw': '和欣客運', 'En': 'Ho-Hsin Bus Co., Ltd.'}",(06)657-2370,ebus@mail2000.com.tw,http://www.ebus.com.tw,https://www.ebus.com.tw/online_trans/Web/Add_Step1.asp,0800-002377,HoHsinBus,THB,THB-VO24-1,0801,2023-07-13T07:38:39+08:00
+010,27,"{'Zh_tw': '日統客運', 'En': 'Solar Bus Co., Ltd.'}",(05)536-1176,http://www.solarbus.com.tw,SolarBus,THB,THB-VO24-1,0407,2023-07-13T07:38:39+08:00
+010,28,"{'Zh_tw': '高雄客運', 'En': 'Kaohsiung Bus Co., Ltd.'}",(07)746-2141,http://www.ksbus.com.tw,KaohsiungBus,THB,THB-VO14-2,1003,2023-07-13T07:38:39+08:00
+010,29,"{'Zh_tw': '屏東客運', 'En': 'Pingtung Bus Co., Ltd.'}",(08)723-7131,ptbus@mars.seed.net.tw,http://www.ptbus.com.tw,PingtungBus,THB,THB-VO14-2,0904,2023-07-13T07:38:39+08:00
+010,33,"{'Zh_tw': '皇家客運', 'En': 'Royal Bus Co., Ltd.'}",(02)8295-7022、0800-551-687,royal.bus@msn.com,http://www.royalbus.com.tw,RoyalBus,THB,THB-VO10-1,0908,2023-07-13T07:38:39+08:00
+010,34,"{'Zh_tw': '統聯客運', 'En': 'United Highway Bus Co., Ltd.'}",(02)2995-7799、0800-676676,http://www.ubus.com.tw,http://ordertickets.ubus.com.tw/,0800-241560,UnitedHighwayBus,THB,THB-VO15-1,1201,2023-07-13T07:38:39+08:00
+010,35,"{'Zh_tw': '葛瑪蘭客運', 'En': 'Kamalan Bus Co., Ltd.'}",(03)956-6198、0800-220-899,service@kamalan.com.tw,http://www.kamalan.com.tw,http://secure.kamalan.com.tw/common_order.php,0800-220-899,KamalanBus,THB,THB-VO15-1,1308,2023-07-13T07:38:39+08:00
+010,38,"{'Zh_tw': '新北客運', 'En': 'New Taipei Bus Co., Ltd.'}",(02)2882-6780、0800-002277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,NewTaipeiBus,THB,THB-VO10-1,1302,2023-07-13T07:38:39+08:00
+010,39,"{'Zh_tw': '首都客運', 'En': 'Capital Bus Co., Ltd.'}",0800-000-866,http://www.capital-bus.com.tw,CapitalBus,THB,THB-VO15-1,0913,2023-07-13T07:38:39+08:00
+010,40,"{'Zh_tw': '福和客運', 'En': 'Fuhobus Bus Co., Ltd.'}",(02)2452-7579、0800-000-569,service@fuhobus.com.tw,http://www.fuhobus.com.tw,FuhobusBus,THB,THB-VO10-1,1310,2023-07-13T07:38:39+08:00
+010,41,"{'Zh_tw': '三重客運', 'En': 'San Chung Bus Co., Ltd.'}",(02)2988-2133、,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,THB,THB-VO15-1,0301,2023-07-13T07:38:39+08:00
+010,42,"{'Zh_tw': '臺北客運', 'En': 'Taipei Bus Co., Ltd.'}",(02)2982-2886、0800-003-307,http://www.tpebus.com.tw,TaipeiBus,THB,THB-VO15-1,1407,2023-07-13T07:38:39+08:00
+010,43,"{'Zh_tw': '基隆客運', 'En': 'Keelung Bus Co., Ltd.'}",(02)243-36111、0800-588010,http://www.kl-bus.com.tw,KeelungBus,THB,THB-VO15-1,1102,2023-07-13T07:38:39+08:00
+010,44,"{'Zh_tw': '亞聯客運', 'En': 'Yalan Bus Co., Ltd.'}",(02)2218-6266,http://www.yalanbus.com.tw,YalanBus,THB,THB-VO15-1,0703,2023-07-13T07:38:39+08:00
+010,45,"{'Zh_tw': '國光客運', 'En': 'Kuo-Kuang Bus Co., Ltd.'}",(02)2381-0731、0800-010138,http://www.kingbus.com.tw,https://order.kingbus.com.tw/ORD/Ord_M_1500_HomePage.aspx,0800-010138,KuoKuangBus,THB,THB-VO15-1,1101,2023-07-13T07:38:39+08:00
+010,46,"{'Zh_tw': '花蓮客運', 'En': 'Hualien Bus Co., Ltd.'}",(03)833-8146,http://www.hualienbus.com.tw/bus/hualien_bus.php,HualienBus,THB,THB-VO15-1,0805,2023-07-13T07:38:39+08:00
+010,47,"{'Zh_tw': '豪泰客運', 'En': 'Howtai Bus Co., Ltd.'}",(02)2556-9397,howtai7080@gmail.com,http://www.howtai.com.tw,HowtaiBus,THB,THB-VO10-1,1405,2023-07-13T07:38:39+08:00
+010,48,"{'Zh_tw': '中興大業巴士', 'En': 'Zhongxing Bus Co., Ltd.'}",(02)2882-2277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhongxingBusCo,THB,THB-VO10-1,0403,2023-07-13T07:38:39+08:00
+010,49,"{'Zh_tw': '大有巴士', 'En': 'Citiair Bus Co., Ltd.'}",(02)2273-8000、0800-088-626,airbus0103@airbus.com.tw,http://www.airbus.com.tw,CitiairBus,THB,THB-VO15-1,0302,2023-07-13T07:38:39+08:00
+010,50,"{'Zh_tw': '汎航通運', 'En': 'Formosa Fairway Corporation'}",(03)327-8572 、0800-888112,https://www1.cgmh.org.tw/frms/frms1.htm,FormosaFairwayCorporation,THB,THB-VO10-1,0604,2023-07-13T07:38:39+08:00
+010,51,"{'Zh_tw': '指南客運', 'En': 'Zhinan Bus Co., Ltd.'}", (02)2882-6780、0800-002279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhinanBus,THB,THB-VO15-1,0907,2023-07-13T07:38:39+08:00
+010,52,"{'Zh_tw': '光華巴士', 'En': 'Kuang-Hua Bus Co., Ltd.'}",0800-002-277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,KuangHuaBus.,THB,THB-VO10-1,0601,2023-07-13T07:38:39+08:00
+010,53,"{'Zh_tw': '總達客運', 'En': 'All Day Bus Co., Ltd.'}",(04)2223-9666、0800-021-258,http://www.alldaybus.com,AllDayBus,THB,THB-VO11-1,1702,2023-07-13T07:38:39+08:00
+010,54,"{'Zh_tw': '全航客運', 'En': 'Chuan Hang Bus Co., Ltd.'}",(04)2212-9715,chbus401@yahoo.com.tw,http://www.chbus.com.tw,ChuanHangBus,THB,THB-VO11-1,0602,2023-07-13T07:38:39+08:00
+010,55,"{'Zh_tw': '中鹿客運', 'En': 'Chung-Lu Bus Co., Ltd.'}",(04)774-3660,service@tr.ibus.com.tw,http://www.ibus.com.tw,ChungluBus,THB,THB-VO11-1,0402,2023-07-13T07:38:39+08:00
+010,56,"{'Zh_tw': '台中客運', 'En': 'Taichung Bus Co., Ltd.'}",(04)2225-5563、0800-800-126,http://www.tcbus.com.tw,TaichungBus,THB,THB-VO11-1,0501,2023-07-13T07:38:39+08:00
+010,58,"{'Zh_tw': '豐原客運', 'En': 'Fengyuan Bus Co., Ltd.'}",(02)7733-5888,service@fybus.com.tw,http://www.fybus.com.tw,FengyuanBus,THB,THB-VO11-1,1801,2023-07-13T07:38:39+08:00
+010,60,"{'Zh_tw': '彰化客運', 'En': 'Chang Hua Bus Co., Ltd.'}",(04)722-5111,chbus1@ms66.hinet.net,http://www.changhuabus.com.tw,ChangHuaBus,THB,THB-VO11-1,1403,2023-07-13T07:38:39+08:00
+010,61,"{'Zh_tw': '員林客運', 'En': 'Yuan Lin Bus Co., Ltd.'}",(04)832-0101,yulinbus@gmail.com,http://www.ylbus.com.tw,YuanLinBus,THB,THB-VO11-1,1001,2023-07-13T07:38:39+08:00
+010,62,"{'Zh_tw': '豐榮客運', 'En': 'Green Transit Bus Co., Ltd.'}",(04)2358-8800,green.bus@msa.hinet.net,http://www.gbus.com.tw,GreentransitBus,THB,THB-VO11-1,1802,2023-07-13T07:38:39+08:00
+010,63,"{'Zh_tw': '杉林溪遊樂事業', 'En': 'Sun-Link-Sea Bus Co., Ltd.'}",(049)261-1217,sun.ls@.msa.hinet.net,http://www.goto307.com.tw,SunLinkSeaBus,THB,THB-VO11-1,0701,2023-07-13T07:38:39+08:00
+010,64,"{'Zh_tw': '南投客運', 'En': 'Nantou Bus Co., Ltd.'}",(04)9298-4031,ntbus.co@msa.hinet.net,http://www.ntbus.com.tw,NantouBus,THB,THB-VO11-1,0902,2023-07-13T07:38:39+08:00
+010,67,"{'Zh_tw': '金牌客運', 'En': 'Champion Bus Co., Ltd.'}",(03)553-8686,http://www.gobus.com.tw,ChampionBus,THB,THB-VO18-1,0808,2023-07-13T07:38:39+08:00
+010,68,"{'Zh_tw': '大都會客運', 'En': 'Metropolitan Bus Co., Ltd.'}",0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,THB,THB-VO10-1,0303,2023-07-13T07:38:39+08:00
+010,87,{'Zh_tw': '泰樂客運'},,THB,THB-VO10-1,1006,2023-07-13T07:38:39+08:00
+010,92,{'Zh_tw': '日豪客運'},,THB,THB-VO15-1,0413,2023-07-13T07:38:39+08:00

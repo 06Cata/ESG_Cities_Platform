@@ -1,0 +1,1388 @@
+{
+    "totalPage": 1,
+    "totalDataSize": 276,
+    "page": 1,
+    "size": 1000,
+    "responseData": [
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1010H007",
+            "WaterLevel": "108.44"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H001",
+            "WaterLevel": "684.50"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H002",
+            "WaterLevel": "530.76"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H041",
+            "WaterLevel": "830.16"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H043",
+            "WaterLevel": "439.44"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H048",
+            "WaterLevel": "28.25"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H049",
+            "WaterLevel": "22.04"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H054",
+            "WaterLevel": "246.84"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H058",
+            "WaterLevel": "4.03"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H066",
+            "WaterLevel": "2.03"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H076",
+            "WaterLevel": "134.64"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H082",
+            "WaterLevel": "6.76"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H089",
+            "WaterLevel": "57.24"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H095",
+            "WaterLevel": "109.83"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H096",
+            "WaterLevel": "170.50"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H097",
+            "WaterLevel": "171.75"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H098",
+            "WaterLevel": "174.53"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H099",
+            "WaterLevel": "263.21"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H101",
+            "WaterLevel": "181.81"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H102",
+            "WaterLevel": "208.69"
+        },
+        {
+            "RecordTime": "2023-07-13T12:55:00",
+            "StationIdentifier": "1140H105",
+            "WaterLevel": "-0.03"
+        },
+        {
+            "RecordTime": "2023-07-13T12:55:00",
+            "StationIdentifier": "1140H106",
+            "WaterLevel": "49.04"
+        },
+        {
+            "RecordTime": "2023-07-13T12:55:00",
+            "StationIdentifier": "1140H107",
+            "WaterLevel": "2.62"
+        },
+        {
+            "RecordTime": "2023-07-13T12:55:00",
+            "StationIdentifier": "1140H108",
+            "WaterLevel": "12.89"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H109",
+            "WaterLevel": "48.88"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H110",
+            "WaterLevel": "42.08"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H126",
+            "WaterLevel": "80.51"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H127",
+            "WaterLevel": "32.70"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H131",
+            "WaterLevel": "345.20"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H132",
+            "WaterLevel": "8.45"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H133",
+            "WaterLevel": "15.38"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1140H134",
+            "WaterLevel": "19.75"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1270H001",
+            "WaterLevel": "22.48"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1280H001",
+            "WaterLevel": "71.54"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1290H002",
+            "WaterLevel": "41.16"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1290H004",
+            "WaterLevel": "115.75"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1290H006",
+            "WaterLevel": "66.52"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1290H007",
+            "WaterLevel": "12.81"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H013",
+            "WaterLevel": "247.32"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H014",
+            "WaterLevel": "209.04"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H016",
+            "WaterLevel": "100.73"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H017",
+            "WaterLevel": "27.21"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H018",
+            "WaterLevel": "96.78"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H019",
+            "WaterLevel": "86.29"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H020",
+            "WaterLevel": "251.82"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H021",
+            "WaterLevel": "-0.88"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H022",
+            "WaterLevel": "-1.27"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H023",
+            "WaterLevel": "53.10"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1300H024",
+            "WaterLevel": "29.00"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1310H001",
+            "WaterLevel": "12.82"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1310H002",
+            "WaterLevel": "0.90"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1320H001",
+            "WaterLevel": "2.57"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1320H002",
+            "WaterLevel": "17.60"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H008",
+            "WaterLevel": "38.32"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H009",
+            "WaterLevel": "175.53"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H010",
+            "WaterLevel": "0.86"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H011",
+            "WaterLevel": "7.94"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H012",
+            "WaterLevel": "247.26"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H013",
+            "WaterLevel": "247.13"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H014",
+            "WaterLevel": "-0.48"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H015",
+            "WaterLevel": "50.01"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1340H016",
+            "WaterLevel": "-0.68"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H001",
+            "WaterLevel": "169.92"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H012",
+            "WaterLevel": "12.86"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H016",
+            "WaterLevel": "95.92"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H017",
+            "WaterLevel": "244.54"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H018",
+            "WaterLevel": "282.55"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H019",
+            "WaterLevel": "33.83"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H020",
+            "WaterLevel": "221.08"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H021",
+            "WaterLevel": "319.77"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H022",
+            "WaterLevel": "253.96"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H023",
+            "WaterLevel": "256.13"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H024",
+            "WaterLevel": "259.76"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H025",
+            "WaterLevel": "0.69"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H026",
+            "WaterLevel": "30.44"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H027",
+            "WaterLevel": "146.57"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H028",
+            "WaterLevel": "232.71"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H029",
+            "WaterLevel": "176.02"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H030",
+            "WaterLevel": "59.52"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1350H031",
+            "WaterLevel": "-0.55"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1400H008",
+            "WaterLevel": "479.27"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1400H009",
+            "WaterLevel": "189.66"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1400H012",
+            "WaterLevel": "598.89"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1400H015",
+            "WaterLevel": "622.52"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1400H018",
+            "WaterLevel": "54.98"
+        },
+        {
+            "RecordTime": "2023-07-13T12:10:00",
+            "StationIdentifier": "1400H019",
+            "WaterLevel": "310.35"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1400H020",
+            "WaterLevel": "321.05"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1420H049",
+            "WaterLevel": "54.09"
+        },
+        {
+            "RecordTime": "2023-07-13T12:10:00",
+            "StationIdentifier": "1420H052",
+            "WaterLevel": "428.70"
+        },
+        {
+            "RecordTime": "2023-07-13T12:10:00",
+            "StationIdentifier": "1420H053",
+            "WaterLevel": "472.91"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1420H054",
+            "WaterLevel": "702.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1420H055",
+            "WaterLevel": "319.40"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1420H056",
+            "WaterLevel": "195.79"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1420H057",
+            "WaterLevel": "637.34"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1420H058",
+            "WaterLevel": "440.42"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H025",
+            "WaterLevel": "9.07"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H028",
+            "WaterLevel": "23.19"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H029",
+            "WaterLevel": "50.65"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H030",
+            "WaterLevel": "85.24"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H032",
+            "WaterLevel": "336.86"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H037",
+            "WaterLevel": "380.95"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H038",
+            "WaterLevel": "75.25"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H040",
+            "WaterLevel": "18.98"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H044",
+            "WaterLevel": "138.99"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H045",
+            "WaterLevel": "91.92"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H046",
+            "WaterLevel": "111.12"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H047",
+            "WaterLevel": "72.01"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H048",
+            "WaterLevel": "165.02"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H051",
+            "WaterLevel": "95.70"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H052",
+            "WaterLevel": "172.08"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H053",
+            "WaterLevel": "38.24"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H054",
+            "WaterLevel": "48.37"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H055",
+            "WaterLevel": "77.93"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H056",
+            "WaterLevel": "78.48"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H057",
+            "WaterLevel": "31.49"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H058",
+            "WaterLevel": "82.86"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H060",
+            "WaterLevel": "19.82"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1430H061",
+            "WaterLevel": "24.94"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H049",
+            "WaterLevel": "471.26"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H050",
+            "WaterLevel": "155.41"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H057",
+            "WaterLevel": "89.21"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H058",
+            "WaterLevel": "12.38"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H063",
+            "WaterLevel": "264.71"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H064",
+            "WaterLevel": "265.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H071",
+            "WaterLevel": "19.65"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510h075",
+            "WaterLevel": "346.19"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H076",
+            "WaterLevel": "4.82"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H079",
+            "WaterLevel": "187.16"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H080",
+            "WaterLevel": "1069.52"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H081",
+            "WaterLevel": "229.36"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H082",
+            "WaterLevel": "752.21"
+        },
+        {
+            "RecordTime": "2023-07-13T12:10:00",
+            "StationIdentifier": "1510H083",
+            "WaterLevel": "116.26"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H084",
+            "WaterLevel": "143.53"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H085",
+            "WaterLevel": "279.79"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H086",
+            "WaterLevel": "317.46"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H087",
+            "WaterLevel": "429.10"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H088",
+            "WaterLevel": "141.12"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H089",
+            "WaterLevel": "860.59"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H090",
+            "WaterLevel": "1026.67"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1510H091",
+            "WaterLevel": "826.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1520H008",
+            "WaterLevel": "78.36"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H009",
+            "WaterLevel": "0.26"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H014",
+            "WaterLevel": "7.68"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H029",
+            "WaterLevel": "12.82"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H030",
+            "WaterLevel": "27.01"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H031",
+            "WaterLevel": "9.94"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H032",
+            "WaterLevel": "20.22"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H033",
+            "WaterLevel": "23.33"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H035",
+            "WaterLevel": "87.43"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H036",
+            "WaterLevel": "-0.24"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H037",
+            "WaterLevel": "31.19"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H038",
+            "WaterLevel": "54.69"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1540H039",
+            "WaterLevel": "39.00"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1550H011",
+            "WaterLevel": "0.28"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1550H012",
+            "WaterLevel": "0.54"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1550H014",
+            "WaterLevel": "26.51"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1550H016",
+            "WaterLevel": "12.38"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1550H017",
+            "WaterLevel": "15.90"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1550H018",
+            "WaterLevel": "-999998.00"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H001",
+            "WaterLevel": "224.44"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H007",
+            "WaterLevel": "25.72"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H008",
+            "WaterLevel": "19.46"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H013",
+            "WaterLevel": "9.85"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H015",
+            "WaterLevel": "23.09"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H017",
+            "WaterLevel": "25.73"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H018",
+            "WaterLevel": "21.26"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H020",
+            "WaterLevel": "35.11"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H021",
+            "WaterLevel": "1.53"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1580H022",
+            "WaterLevel": "0.04"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1590H012",
+            "WaterLevel": "3.62"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1590H013",
+            "WaterLevel": "21.62"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1590H015",
+            "WaterLevel": "-0.26"
+        },
+        {
+            "RecordTime": "2023-07-13T12:40:00",
+            "StationIdentifier": "1590H016",
+            "WaterLevel": "12.34"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1590H018",
+            "WaterLevel": "-0.27"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1590H019",
+            "WaterLevel": "15.31"
+        },
+        {
+            "RecordTime": "2023-07-13T11:10:00",
+            "StationIdentifier": "1590H020",
+            "WaterLevel": "12.61"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H005",
+            "WaterLevel": "39.79"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H013",
+            "WaterLevel": "16.16"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H018",
+            "WaterLevel": "9.76"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H020",
+            "WaterLevel": "36.28"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H023",
+            "WaterLevel": "0.35"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H024",
+            "WaterLevel": "69.70"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H025",
+            "WaterLevel": "3.04"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H026",
+            "WaterLevel": "45.45"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H027",
+            "WaterLevel": "26.32"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H028",
+            "WaterLevel": "10.12"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H029",
+            "WaterLevel": "5.49"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H030",
+            "WaterLevel": "3.14"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H031",
+            "WaterLevel": "0.54"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H032",
+            "WaterLevel": "-0.22"
+        },
+        {
+            "RecordTime": "2023-07-13T12:20:00",
+            "StationIdentifier": "1630H033",
+            "WaterLevel": "-0.51"
+        },
+        {
+            "RecordTime": "2023-07-13T12:10:00",
+            "StationIdentifier": "1630H034",
+            "WaterLevel": "278.54"
+        },
+        {
+            "RecordTime": "2023-07-13T12:10:00",
+            "StationIdentifier": "1630H035",
+            "WaterLevel": "402.33"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H036",
+            "WaterLevel": "65.46"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H037",
+            "WaterLevel": "9.38"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1630H040",
+            "WaterLevel": "3.18"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H006",
+            "WaterLevel": "1.12"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H009",
+            "WaterLevel": "0.13"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H011",
+            "WaterLevel": "0.32"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H013",
+            "WaterLevel": "5.34"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H015",
+            "WaterLevel": "0.18"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H016",
+            "WaterLevel": "24.59"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H017",
+            "WaterLevel": "-0.08"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1650H018",
+            "WaterLevel": "0.24"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1660H009",
+            "WaterLevel": "5.37"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1660H010",
+            "WaterLevel": "7.87"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1660H011",
+            "WaterLevel": "1.50"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1660H012",
+            "WaterLevel": "-0.07"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1660H013",
+            "WaterLevel": "1.16"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1670H003",
+            "WaterLevel": "0.31"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1670H004",
+            "WaterLevel": "2.94"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1680H004",
+            "WaterLevel": "1.17"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1680H005",
+            "WaterLevel": "-0.06"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H036",
+            "WaterLevel": "106.17"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H043",
+            "WaterLevel": "21.55"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H045",
+            "WaterLevel": "4.52"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H057",
+            "WaterLevel": "43.18"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H058",
+            "WaterLevel": "114.17"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H061",
+            "WaterLevel": "266.07"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H062",
+            "WaterLevel": "41.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H065",
+            "WaterLevel": "91.91"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H066",
+            "WaterLevel": "137.15"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H067",
+            "WaterLevel": "397.10"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H068",
+            "WaterLevel": "8.96"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H069",
+            "WaterLevel": "138.84"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H070",
+            "WaterLevel": "226.07"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H071",
+            "WaterLevel": "35.14"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H072",
+            "WaterLevel": "251.41"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H074",
+            "WaterLevel": "244.43"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H075",
+            "WaterLevel": "93.93"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H076",
+            "WaterLevel": "57.85"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H077",
+            "WaterLevel": "741.03"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H079",
+            "WaterLevel": "548.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1730H081",
+            "WaterLevel": "345.72"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1740H002",
+            "WaterLevel": "4.00"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1740H007",
+            "WaterLevel": "1.10"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1740H008",
+            "WaterLevel": "1.02"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1740H009",
+            "WaterLevel": "35.24"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1740H010",
+            "WaterLevel": "47.37"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1740H011",
+            "WaterLevel": "6.78"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1850H004",
+            "WaterLevel": "72.19"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1850H005",
+            "WaterLevel": "22.08"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "1850H006",
+            "WaterLevel": "68.10"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H007",
+            "WaterLevel": "156.82"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H011",
+            "WaterLevel": "25.45"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H020",
+            "WaterLevel": "315.04"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H021",
+            "WaterLevel": "368.20"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H022",
+            "WaterLevel": "160.50"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H025",
+            "WaterLevel": "206.75"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H026",
+            "WaterLevel": "106.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H028",
+            "WaterLevel": "277.52"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2200H029",
+            "WaterLevel": "146.19"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2370H004",
+            "WaterLevel": "192.03"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2370H016",
+            "WaterLevel": "168.15"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2370H017",
+            "WaterLevel": "58.86"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2370H018",
+            "WaterLevel": "124.56"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2370H019",
+            "WaterLevel": "154.75"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2370H025",
+            "WaterLevel": "261.37"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2370H028",
+            "WaterLevel": "208.50"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2420H018",
+            "WaterLevel": "154.14"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2420H019",
+            "WaterLevel": "110.15"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2420H024",
+            "WaterLevel": "4.29"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2420H036",
+            "WaterLevel": "164.24"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2420H037",
+            "WaterLevel": "132.13"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2420H043",
+            "WaterLevel": "78.69"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2420H046",
+            "WaterLevel": "35.59"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2500H003",
+            "WaterLevel": "31.57"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H006",
+            "WaterLevel": "2.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H017",
+            "WaterLevel": "363.97"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H019",
+            "WaterLevel": "4.39"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H020",
+            "WaterLevel": "0.18"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H022",
+            "WaterLevel": "193.62"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H023",
+            "WaterLevel": "12.68"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H024",
+            "WaterLevel": "199.61"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H025",
+            "WaterLevel": "2.30"
+        },
+        {
+            "RecordTime": "2023-07-13T12:50:00",
+            "StationIdentifier": "2560H026",
+            "WaterLevel": "365.78"
+        }
+    ]
+}

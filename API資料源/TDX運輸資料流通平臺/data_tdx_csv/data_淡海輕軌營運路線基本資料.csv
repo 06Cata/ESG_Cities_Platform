@@ -1,0 +1,5 @@
+RouteID,OperatorCode,RouteName,RailRouteType,LineNo,LineID,StartStationID,StartStationName,EndStationID,EndStationName,TravelTime,RouteLength,SrcUpdateTime,UpdateTime,VersionID
+V-1,NTMC,"{'Zh_tw': '紅樹林－崁頂', 'En': 'HongShulin - Kanding'}",35,V,V,V01,"{'Zh_tw': '紅樹林', 'En': 'Hongshulin'}",V11,"{'Zh_tw': '崁頂', 'En': 'Kanding'}",26.0,7.3,2020-12-30T00:00:00+08:00,2021-01-21T06:05:35+08:00,2
+V-1,NTMC,"{'Zh_tw': '崁頂－紅樹林', 'En': 'Kanding - HongShulin'}",35,V,V,V11,"{'Zh_tw': '崁頂', 'En': 'Kanding'}",V01,"{'Zh_tw': '紅樹林', 'En': 'Hongshulin'}",26.0,7.3,2020-12-30T00:00:00+08:00,2021-01-21T06:05:35+08:00,2
+V-2,NTMC,"{'Zh_tw': '紅樹林－淡水漁人碼頭', 'En': ""HongShulin - Tamsui Fisherman's Wharf""}",35,V,V,V01,"{'Zh_tw': '紅樹林', 'En': 'Hongshulin'}",V26,"{'Zh_tw': '淡水漁人碼頭', 'En': ""Tamsui Fisherman's Wharf""}",30.0,8.4,2020-12-30T00:00:00+08:00,2021-01-21T06:05:35+08:00,2
+V-2,NTMC,"{'Zh_tw': '淡水漁人碼頭－紅樹林', 'En': ""Tamsui Fisherman's Wharf - HongShulin""}",35,V,V,V26,"{'Zh_tw': '淡水漁人碼頭', 'En': ""Tamsui Fisherman's Wharf""}",V01,"{'Zh_tw': '紅樹林', 'En': 'Hongshulin'}",30.0,8.4,2020-12-30T00:00:00+08:00,2021-01-21T06:05:35+08:00,2

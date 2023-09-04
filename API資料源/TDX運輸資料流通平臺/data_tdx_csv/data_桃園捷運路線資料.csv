@@ -1,0 +1,2 @@
+LineNo,LineID,LineName,LineSectionName,LineColor,IsBranch,SrcUpdateTime,UpdateTime,VersionID
+A,A,"{'Zh_tw': '桃園機場捷運線', 'En': 'Airport MRT Line'}","{'Zh_tw': '台北車站-環北', 'En': 'Taipei Main Station - Huanbei'}",#8246af,False,2018-12-04T14:03:25+08:00,2018-12-04T16:43:42+08:00,1

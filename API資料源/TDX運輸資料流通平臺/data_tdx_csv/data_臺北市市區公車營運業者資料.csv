@@ -1,0 +1,16 @@
+ProviderID,OperatorID,OperatorName,OperatorPhone,OperatorUrl,OperatorCode,AuthorityCode,OperatorNo,UpdateTime
+045,100,"{'Zh_tw': '臺北客運', 'En': 'Taipei Bus Co., Ltd.'}",0800-003-307,http://www.tpebus.com.tw,TaipeiBus,TPE,1407,2023-07-13T22:26:53+08:00
+045,1000,"{'Zh_tw': '東南客運', 'En': 'Southeast Bus Co., Ltd.'}",0800-616-688,http://www.southeastbus.com,SoutheastBus,TPE,0804,2023-07-13T22:26:53+08:00
+045,1100,"{'Zh_tw': '大南汽車', 'En': 'Danan Bus Co., Ltd.'}",0800-089-456,danbus.appeal@gmail.com,http://www.dnbus.com.tw/,DananBus,TPE,0307,2023-07-13T22:26:53+08:00
+045,16123,"{'Zh_tw': '皇家客運', 'En': 'Royal Bus Co., Ltd.'}",0800-551-687,royal.bus@msn.com,http://www.royalbus.com.tw,RoyalBus,TPE,0908,2023-07-13T22:26:53+08:00
+045,200,"{'Zh_tw': '首都客運', 'En': 'Capital Bus Co., Ltd.'}",0800-000-866,http://www.capital-bus.com.tw,CapitalBus,TPE,0913,2023-07-13T22:26:53+08:00
+045,300,"{'Zh_tw': '新店客運', 'En': 'Sindian Bus Co., Ltd.'}",02-2666-0678,http://www.sindianbus.com.tw,SindianBus,TPE,1304,2023-07-13T22:26:53+08:00
+045,400,"{'Zh_tw': '三重客運', 'En': 'San Chung Bus Co., Ltd.'}",0800-090-607,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,TPE,0301,2023-07-13T22:26:53+08:00
+045,5100,"{'Zh_tw': '指南客運', 'En': 'Zhinan Bus Co., Ltd.'}",0800-002-279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhinanBus,TPE,0907,2023-07-13T22:26:53+08:00
+045,5200,"{'Zh_tw': '淡水客運', 'En': 'Tamshui Bus Co., Ltd.'}",0800-002-279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,TamshuiBus,TPE,1104,2023-07-13T22:26:53+08:00
+045,5300,"{'Zh_tw': '光華巴士', 'En': 'Kuang-Hua Bus Co., Ltd.'}",0800-002-277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,KuangHuaBus.,TPE,0601,2023-07-13T22:26:53+08:00
+045,5400,"{'Zh_tw': '新北客運', 'En': 'New Taipei Bus Co., Ltd.'}",0800-002-277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,NewTaipeiBus,TPE,1302,2023-07-13T22:26:53+08:00
+045,5500,"{'Zh_tw': '中興巴士', 'En': 'Zhongxing Bus'}",0800-002-277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhongxingBus,TPE,0410,2023-07-13T22:26:53+08:00
+045,700,"{'Zh_tw': '欣欣客運', 'En': 'Shin-Shin Bus Co., Ltd.'}",0800-032-159,http://www.shinbus.com.tw/,0800-032-159,ShinshinBus,TPE,0813,2023-07-13T22:26:53+08:00
+045,800,"{'Zh_tw': '大都會客運', 'En': 'Metropolitan Bus Co., Ltd.'}",0800-053-434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,TPE,0303,2023-07-13T22:26:53+08:00
+045,900,"{'Zh_tw': '大有巴士', 'En': 'Citiair Bus Co., Ltd.'}",0800-088-626,airbus0103@airbus.com.tw,http://www.airbus.com.tw,CitiairBus,TPE,0302,2023-07-13T22:26:53+08:00

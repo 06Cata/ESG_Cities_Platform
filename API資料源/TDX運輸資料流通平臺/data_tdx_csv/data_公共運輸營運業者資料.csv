@@ -1,0 +1,255 @@
+ProviderID,OperatorID,OperatorName,OperatorPhone,OperatorUrl,OperatorCode,AuthorityCode,OperatorNo,UpdateTime
+015,16249,"{'Zh_tw': '雙溪區公所', 'En': 'Shuangxi District Office'}",（02）2493-1111,http://www.shuangxi.ntpc.gov.tw,ShuangxiDistrictOffice,NWT,1803,2020-07-28T00:00:00+08:00
+015,16252,"{'Zh_tw': '萬里區公所', 'En': 'Wanli District Office'}",（02）2492-2064,http://www.wanli.ntpc.gov.tw,WanliDistrictOffice,NWT,1313,2020-07-28T00:00:00+08:00
+045,300,"{'Zh_tw': '新店客運', 'En': 'Sindian Bus Co., Ltd.'}",(02)2666-0678,http://www.sindianbus.com.tw,SindianBus,TPE,1304,2020-07-28T00:00:00+08:00
+007,6,"{'Zh_tw': '豐原客運', 'En': 'Fengyuan Bus Co., Ltd.'}",(02)7733-5888,service@fybus.com.tw,http://www.fybus.com.tw,FengyuanBus,TXG,1801,2020-07-28T00:00:00+08:00
+010,13,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",(03)522-5151~8,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,HSQ,1303,2020-07-28T00:00:00+08:00
+010,13,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",(03)522-5151~8,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,HSZ,1303,2020-07-28T00:00:00+08:00
+010,13,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",(03)522-5151~8,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,THB,THB-VO18-1,1303,2020-07-28T00:00:00+08:00
+009,20120,"{'Zh_tw': '雄風大都會車隊', 'En': 'Xiong-Feng Metro Taxi'}",55178,,KHH,1206,2021-03-12T04:07:18+08:00
+049,NTMC,"{'Zh_tw': '新北大眾捷運股份有限公司', 'En': 'New Taipei Metro Corporation'}",(02)2805-9877,https://www.ntmetro.com.tw/,NTMC,NTMC,5104,2020-07-28T00:00:00+08:00
+006,10,{'Zh_tw': '捷順交通'},(04)2452-4898,,http://www.jasunbus.com,JasunBus,TAO,1103,2020-07-28T00:00:00+08:00
+009,20150,"{'Zh_tw': '佳雨無計程車', 'En': 'Jyr Taxi'}",07-3455555,,KHH,0820,2021-03-12T04:07:18+08:00
+006,925,{'Zh_tw': '亞盛客運'},,TAO,0704,2021-06-11T00:00:00+08:00
+007,12,"{'Zh_tw': '苗栗客運', 'En': 'Miaoli Bus Co., Ltd.'}",(037)662111#3,http://www.mlbus.com.tw,MiaoliBus,TXG,0911,2020-07-28T00:00:00+08:00
+015,16247,"{'Zh_tw': '坪林區公所', 'En': 'Pinglin District Office'}",（02）2665-7251,http://www.pinglin.ntpc.gov.tw,PinglinDistrictOffice,NWT,0811,2020-07-28T00:00:00+08:00
+010,17,"{'Zh_tw': '長榮國際儲運', 'En': 'Evergreen International Storage & Transport Corporation'}",(03)325-2076,http://www.evergreen-eitc.com.tw,EvergreenTransportCorporation,THB,THB-VO18-1,0809,2020-07-28T00:00:00+08:00
+010,43,"{'Zh_tw': '基隆客運', 'En': 'Keelung Bus Co., Ltd.'}",(02)243-36111、0800-588010,http://www.kl-bus.com.tw,KeelungBus,THB,THB-VO10-1,1102,2020-07-28T00:00:00+08:00
+015,16187,{'Zh_tw': '光華巴士'},0800-002-277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,KuangHuaBus,NWT,0601,2020-07-28T00:00:00+08:00
+008,10001,"{'Zh_tw': '府城客運', 'En': 'TainanCityBus'}","06-221-9177, 06-279-8267",http://www.tainancitybus.com.tw/index.asp,TainanCityBus,TNN,0803,2020-07-28T00:00:00+08:00
+007,8100,{'Zh_tw': '小黃公車'},,TXG,0310,2021-02-02T12:00:00+08:00
+006,6,"{'Zh_tw': '亞通客運', 'En': 'Yatung Bus Co., Ltd.'}",(02)2712-8795,orange.bus@msa.hinet.net,http://www.orangebus.com.tw,YatungBus,TAO,0702,2020-07-28T00:00:00+08:00
+010,49,"{'Zh_tw': '大有巴士', 'En': 'Citiair Bus Co., Ltd.'}",(02)2273-8000、0800-088-626,airbus0103@airbus.com.tw,http://www.airbus.com.tw,CitiairBus,THB,THB-VO15-1,0302,2020-07-28T00:00:00+08:00
+006,5,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",(03)522-5151~8,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,TAO,1303,2020-07-28T00:00:00+08:00
+006,9,"{'Zh_tw': '三重客運', 'En': 'San Chung Bus Co., Ltd.'}",(02)2988-2133、0800-090607,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,TAO,0301,2020-07-28T00:00:00+08:00
+009,20110,"{'Zh_tw': '夏威夷計程車隊', 'En': 'Xiaweiyi Taxi'}",07-5555555,,KHH,1009,2021-03-12T04:07:18+08:00
+045,900,"{'Zh_tw': '大有巴士', 'En': 'Citiair Bus Co., Ltd.'}",(02)2273-8000、0800-088-626,airbus0103@airbus.com.tw,http://www.airbus.com.tw,CitiairBus,TPE,0302,2020-07-28T00:00:00+08:00
+010,45,"{'Zh_tw': '國光客運', 'En': 'Kuo-Kuang Bus Co., Ltd.'}",(02)2381-0731、0800-010138,http://www.kingbus.com.tw,https://order.kingbus.com.tw/ORD/Ord_M_1500_HomePage.aspx,0800-010138,KuoKuangBus,HSZ,1101,2020-07-28T00:00:00+08:00
+010,45,"{'Zh_tw': '國光客運', 'En': 'Kuo-Kuang Bus Co., Ltd.'}",(02)2381-0731、0800-010138,http://www.kingbus.com.tw,https://order.kingbus.com.tw/ORD/Ord_M_1500_HomePage.aspx,0800-010138,KuoKuangBus,ILA,1101,2020-07-28T00:00:00+08:00
+010,45,"{'Zh_tw': '國光客運', 'En': 'Kuo-Kuang Bus Co., Ltd.'}",(02)2381-0731、0800-010138,http://www.kingbus.com.tw,https://order.kingbus.com.tw/ORD/Ord_M_1500_HomePage.aspx,0800-010138,KuoKuangBus,THB,THB-VO15-1,1101,2020-07-28T00:00:00+08:00
+010,45,"{'Zh_tw': '國光客運', 'En': 'Kuo-Kuang Bus Co., Ltd.'}",(02)2381-0731、0800-010138,http://www.kingbus.com.tw,https://order.kingbus.com.tw/ORD/Ord_M_1500_HomePage.aspx,0800-010138,KuoKuangBus,CYI,1101,2020-07-28T00:00:00+08:00
+015,16232,"{'Zh_tw': '新莊區公所', 'En': 'Xinzhuang District Office'}",(02)2992-9891,http://www.xinzhuang.ntpc.gov.tw,XinzhuangDistrictOffice,NWT,1315,2020-07-28T00:00:00+08:00
+010,23,"{'Zh_tw': '嘉義客運', 'En': 'Chiayi Bus Co., Ltd.'}",(05)275-0895,http://www.cibus.com.tw,ChiayiBus,CYQ,1401,2020-07-28T00:00:00+08:00
+010,23,"{'Zh_tw': '嘉義客運', 'En': 'Chiayi Bus Co., Ltd.'}",(05)275-0895,http://www.cibus.com.tw,ChiayiBus,YUN,1401,2020-07-28T00:00:00+08:00
+010,23,"{'Zh_tw': '嘉義客運', 'En': 'Chiayi Bus Co., Ltd.'}",(05)275-0895,http://www.cibus.com.tw,ChiayiBus,THB,THB-VO24-1,1401,2020-07-28T00:00:00+08:00
+010,85,{'Zh_tw': '阿里山客運嘉義分公司'},0800-520-598,services@alishanbus.com,http://www.alishanbus.com/,AlishanBus,CYQ,0815,2020-07-28T00:00:00+08:00
+010,85,{'Zh_tw': '阿里山客運嘉義分公司'},0800-520-598,services@alishanbus.com,http://www.alishanbus.com/,AlishanBus,YUN,0815,2020-07-28T00:00:00+08:00
+006,23,"{'Zh_tw': '台灣真好小客車租賃', 'En': 'Nice Taiwan car rental corporation'}",03-4516459,,TAO,0509,2021-03-12T04:07:19+08:00
+013,0001,"{'Zh_tw': '金門', 'En': 'City Bus and Ferry Management Office, Kinmen County'}",(08)2332721,http://ebus.kinmen.gov.tw,KinmenBusFerryOffice,KIN,0807,2020-07-28T00:00:00+08:00
+010,89,{'Zh_tw': '中寮鄉公所'},,NAN,0414,2021-02-02T12:00:00+08:00
+027,TRTC,"{'Zh_tw': '臺北大眾捷運股份有限公司', 'En': 'Taipei Rapid Transit Corporation'}",02-218-12345,http://www.metro.taipei/,TRTC,TRTC,5101,2020-07-28T00:00:00+08:00
+010,25,"{'Zh_tw': '和欣客運', 'En': 'Ho-Hsin Bus Co., Ltd.'}",(06)657-2370,ebus@mail2000.com.tw,http://www.ebus.com.tw,https://www.ebus.com.tw/online_trans/Web/Add_Step1.asp,0800-002377,HoHsinBus,THB,THB-VO24-1,0801,2020-07-28T00:00:00+08:00
+006,24,{'Zh_tw': '勁揚通運'},,TAO,0915,2021-03-19T00:00:00+08:00
+053,TMRT,"{'Zh_tw': '臺中捷運股份有限公司', 'En': 'Taichung Mass Rapid Transit Corporation'}",04-24375537,https://www.tmrt.com.tw/,TMRT,TMRT,5105,2020-12-21T03:56:19+08:00
+009,10011,"{'Zh_tw': '瑞豐站', 'En': 'Rueifong Station'}",(07)717-4393,RueifongStation,KHH,2020-07-28T00:00:00+08:00
+010,32,"{'Zh_tw': '阿羅哈客運', 'En': 'Aloha Bus Co., Ltd.'}",0800-043168,fax3@aloha168.com.tw,http://www.aloha168.com.tw,http://www.aloha168.com.tw/ticket.htm,0800-043168,AlohaBus,THB,THB-VO14-1,0810,2020-07-28T00:00:00+08:00
+006,2,"{'Zh_tw': '中壢客運', 'En': 'Chungli Bus Co., Ltd.'}",(03)425-5722、0800-255722,cl.bus@msa.hinet.net,http://www.chunglibus.com.tw,ChungliBus,TAO,0404,2020-07-28T00:00:00+08:00
+010,48,"{'Zh_tw': '中興大業巴士', 'En': 'Zhongxing Bus Co., Ltd.'}",(02)2882-2277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhongxingBusCo,THB,THB-VO10-1,0403,2020-07-28T00:00:00+08:00
+006,4,"{'Zh_tw': '統聯客運', 'En': 'United Highway Bus Co., Ltd.'}",(02)2995-7799、0800-676676,http://www.ubus.com.tw,http://ordertickets.ubus.com.tw/,0800-241560,UnitedHighwayBus,TAO,1201,2020-07-28T00:00:00+08:00
+010,75,"{'Zh_tw': '普悠瑪客運', 'En': 'Puyuma Bus Co., Ltd.'}",089-343-121,http://www.ksbus.com.tw/Puyuma/Puyuma.html,PuyumaBus,TTT,1202,2020-07-28T00:00:00+08:00
+010,63,"{'Zh_tw': '杉林溪遊樂事業', 'En': 'Sun-Link-Sea Bus Co., Ltd.'}",(049)261-1217,sun.ls@.msa.hinet.net,http://www.goto307.com.tw,SunLinkSeaBus,THB,THB-VO11-1,0701,2020-07-28T00:00:00+08:00
+010,11,"{'Zh_tw': '中壢客運', 'En': 'Chungli Bus Co., Ltd.'}",(03)425-5722、0800-255722,cl.bus@msa.hinet.net,http://www.chunglibus.com.tw,ChungliBus,THB,THB-VO18-1,0404,2020-07-28T00:00:00+08:00
+010,109,{'Zh_tw': '基隆市公車處'},,KEE,1107,2022-05-20T07:35:39+08:00
+015,16228,"{'Zh_tw': '淡水區公所', 'En': 'Tamsui District Office'}",( 02 ) 2622-1020,http://www.tamsui.ntpc.gov.tw,TamsuiDistrictOffice,NWT,1108,2020-07-28T00:00:00+08:00
+010,92,{'Zh_tw': '日豪客運'},,THB,THB-VO15-1,0413,2020-07-28T00:00:00+08:00
+010,50,"{'Zh_tw': '汎航通運', 'En': 'Formosa Fairway Corporation'}",(03)327-8572 、0800-888112,https://www1.cgmh.org.tw/frms/frms1.htm,FormosaFairwayCorporation,THB,THB-VO10-1,0604,2020-07-28T00:00:00+08:00
+045,5100,"{'Zh_tw': '指南客運', 'En': 'Zhinan Bus Co., Ltd.'}", (02)2882-6780、0800-002279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhinanBus,TPE,0907,2020-07-28T00:00:00+08:00
+015,16253,"{'Zh_tw': '金山區公所', 'En': 'Jinshan District Office'}",（02）2498-5965,http://www.jinshan.ntpc.gov.tw,JinshanDistrictOffice,NWT,0814,2020-07-28T00:00:00+08:00
+006,8,"{'Zh_tw': '金台通運(免巴)', 'En': 'Jintai Transport Co., Ltd.'}",(03)553-8321,jstour@ms48.hinet,JintaiTransport,TAO,0806,2020-07-28T00:00:00+08:00
+050,NTMC,"{'Zh_tw': '新北大眾捷運股份有限公司', 'En': 'New Taipei Metro Corporation'}",(02)2805-9877,https://www.ntmetro.com.tw/,NTMC,NTMC,5104,2020-07-28T00:00:00+08:00
+015,16179,{'Zh_tw': '三重客運'},(02)2988-2133、0800-090607 ,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus ,NWT,0301,2020-07-28T00:00:00+08:00
+015,16239,"{'Zh_tw': '板橋區公所', 'En': 'Banqiao District Office'}",(02)29686911,http://www.banqiao.ntpc.gov.tw,BanqiaoDistrictOffice,NWT,0818,2020-07-28T00:00:00+08:00
+009,20010,"{'Zh_tw': '中華衛星大車隊', 'En': 'Ks Taxi'}",07-7258777,,KHH,0415,2021-03-12T04:07:18+08:00
+010,16,"{'Zh_tw': '亞通客運', 'En': 'Yatung Bus Co., Ltd.'}",(02)2712-8795,orange.bus@msa.hinet.net,http://www.orangebus.com.tw,YatungBus,THB,THB-VO18-1,0702,2020-07-28T00:00:00+08:00
+007,16,"{'Zh_tw': '南投客運', 'En': 'Nantou Bus Co., Ltd.'}",(04)9298-4031,ntbus.co@msa.hinet.net,http://www.ntbus.com.tw,NantouBus,TXG,0902,2020-07-28T00:00:00+08:00
+010,67,"{'Zh_tw': '金牌客運', 'En': 'Champion Bus Co., Ltd.'}",(03)553-8686,http://www.gobus.com.tw,ChampionBus,MIA,0808,2020-07-28T00:00:00+08:00
+010,67,"{'Zh_tw': '金牌客運', 'En': 'Champion Bus Co., Ltd.'}",(03)553-8686,http://www.gobus.com.tw,ChampionBus,THB,THB-VO18-1,0808,2020-07-28T00:00:00+08:00
+010,67,"{'Zh_tw': '金牌客運', 'En': 'Champion Bus Co., Ltd.'}",(03)553-8686,http://www.gobus.com.tw,ChampionBus,HSZ,0808,2020-07-28T00:00:00+08:00
+010,67,"{'Zh_tw': '金牌客運', 'En': 'Champion Bus Co., Ltd.'}",(03)553-8686,http://www.gobus.com.tw,ChampionBus,HSQ,0808,2020-07-28T00:00:00+08:00
+015,16240,"{'Zh_tw': '永和區公所', 'En': 'Yonghe District Office'}",(02)2928-2828,http://www.yonghe.ntpc.gov.tw,YongheDistrictOffice,NWT,0506,2020-07-28T00:00:00+08:00
+006,XB_16278,{'Zh_tw': '桃園客運-16278'},(03)375-3711、0800-053808,tybus＠ms18.hinet.net,http://www.tybus.com.tw,TaoyuanBus,TAO,1002,2020-07-28T00:00:00+08:00
+010,58,"{'Zh_tw': '豐原客運', 'En': 'Fengyuan Bus Co., Ltd.'}",(02)7733-5888,service@fybus.com.tw,http://www.fybus.com.tw,FengyuanBus,THB,THB-VO11-1,1801,2020-07-28T00:00:00+08:00
+010,28,"{'Zh_tw': '高雄客運', 'En': 'Kaohsiung Bus Co., Ltd.'}",(07)746-2141,http://www.ksbus.com.tw,KaohsiungBus,PIF,1003,2020-07-28T00:00:00+08:00
+010,28,"{'Zh_tw': '高雄客運', 'En': 'Kaohsiung Bus Co., Ltd.'}",(07)746-2141,http://www.ksbus.com.tw,KaohsiungBus,THB,THB-VO14-2,1003,2020-07-28T00:00:00+08:00
+007,3,"{'Zh_tw': '統聯客運', 'En': 'United Highway Bus Co., Ltd.'}",(02)2995-7799、0800-676676,http://www.ubus.com.tw,http://ordertickets.ubus.com.tw/,0800-241560,UnitedHighwayBus,TXG,1201,2020-07-28T00:00:00+08:00
+015,16185,{'Zh_tw': '指南客運'}, (02)2882-6780、0800-002279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhinanBus,NWT,0907,2020-07-28T00:00:00+08:00
+010,53,"{'Zh_tw': '總達客運', 'En': 'All Day Bus Co., Ltd.'}",(04)2223-9666、0800-021-258,http://www.alldaybus.com,AllDayBus,NAN,1702,2020-07-28T00:00:00+08:00
+010,53,"{'Zh_tw': '總達客運', 'En': 'All Day Bus Co., Ltd.'}",(04)2223-9666、0800-021-258,http://www.alldaybus.com,AllDayBus,THB,THB-VO11-1,1702,2020-07-28T00:00:00+08:00
+009,10320,"{'Zh_tw': '高雄客運', 'En': 'Kaohsiung Bus Co., Ltd.'}",(07)746-2141,http://www.ksbus.com.tw,KaohsiungBus,KHH,1003,2020-07-28T00:00:00+08:00
+009,10110,"{'Zh_tw': '即時運輸調度站', 'En': 'Immediate Transport Dispatch Staion'}",(07)229-9825#502、0800-889-116,ImmediateTransportDispatchStaion,KHH,2020-07-28T00:00:00+08:00
+009,20160,"{'Zh_tw': '群富衛星車隊', 'En': 'Qunfu Taxi'}",07-7711199,,KHH,1318,2021-03-12T04:07:19+08:00
+007,17,"{'Zh_tw': '四方客運', 'En': 'Sf E-Bus Co., Ltd.'}",0800-058622,SiFangBus,TXG,0503,2020-07-28T00:00:00+08:00
+010,30,"{'Zh_tw': '鼎東客運', 'En': 'Diingdong Bus Co., Ltd.'}",(089)-328396,taitung.ddbus@msa.hinet.net,http://www.鼎東客運.tw,DiingdongBus,THB,THB-VO14-2,1309,2020-07-28T00:00:00+08:00
+014,209,"{'Zh_tw': '連江縣公車', 'En': 'City Bus and Ferry Management Office, Lienchiang County'}",(0836)-23098,lujinnfa@gmail.com,http://www.matsu-ebus.tw,MatsuBusFerryOffice,LIE,1105,2020-07-28T00:00:00+08:00
+010,62,"{'Zh_tw': '豐榮客運', 'En': 'Green Transit Bus Co., Ltd.'}",(04)2358-8800,green.bus@msa.hinet.net,http://www.gbus.com.tw,GreentransitBus,THB,THB-VO11-1,1802,2020-07-28T00:00:00+08:00
+051,TRTC,"{'Zh_tw': '臺北大眾捷運股份有限公司', 'En': 'Taipei Rapid Transit Corporation'}",02-218-12345,http://www.metro.taipei/,TRTC,TRTC,5101,2020-07-28T00:00:00+08:00
+007,24,"{'Zh_tw': '建明客運', 'En': 'Free Go Bus Co., Ltd.'}",(02)8791-7201、0800-051-519,freego@southeastbus.com,http://www.freego.com.tw,JianMingBus,TXG,0906,2020-07-28T00:00:00+08:00
+045,1100,"{'Zh_tw': '大南汽車', 'En': 'Danan Bus Co., Ltd.'}",(02)2858-6123,danbus.appeal@gmail.com,http://www.dnbus.com.tw/,DananBus,TPE,0307,2020-07-28T00:00:00+08:00
+010,29,"{'Zh_tw': '屏東客運', 'En': 'Pingtung Bus Co., Ltd.'}",(08)723-7131,ptbus@mars.seed.net.tw,http://www.ptbus.com.tw,PingtungBus,PIF,0904,2020-07-28T00:00:00+08:00
+010,29,"{'Zh_tw': '屏東客運', 'En': 'Pingtung Bus Co., Ltd.'}",(08)723-7131,ptbus@mars.seed.net.tw,http://www.ptbus.com.tw,PingtungBus,THB,THB-VO14-2,0904,2020-07-28T00:00:00+08:00
+010,56,"{'Zh_tw': '台中客運', 'En': 'Taichung Bus Co., Ltd.'}",(04)2225-5563、0800-800-126,http://www.tcbus.com.tw,TaichungBus,THB,THB-VO11-1,0501,2020-07-28T00:00:00+08:00
+045,5400,"{'Zh_tw': '新北客運', 'En': 'New Taipei Bus Co., Ltd.'}",(02)2882-6780、0800-002277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,NewTaipeiBus,TPE,1302,2020-07-28T00:00:00+08:00
+045,5500,"{'Zh_tw': '中興巴士', 'En': 'Zhongxing Bus'}",(02)2882-2277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhongxingBus,TPE,0410,2020-07-28T00:00:00+08:00
+015,16241,"{'Zh_tw': '土城區公所', 'En': 'Tucheng District Office'}",(02)2273-2000,http://www.tucheng.ntpc.gov.tw,TuchengDistrictOffice,NWT,0306,2020-07-28T00:00:00+08:00
+015,16233,"{'Zh_tw': '泰山區公所', 'En': 'Taishan District Office'}",（02）2909-9551,http://www.taishan.ntpc.gov.tw,TaishanDistrictOffice,NWT,1004,2020-07-28T00:00:00+08:00
+007,7,"{'Zh_tw': '彰化客運', 'En': 'Chang Hua Bus Co., Ltd.'}",(04)722-5111,chbus1@ms66.hinet.net,http://www.changhuabus.com.tw,ChangHuaBus,TXG,1403,2020-07-28T00:00:00+08:00
+009,10013,"{'Zh_tw': '小港站', 'En': 'Xiaogang Station'}",(07)841-1387,http://www.gdbus.com.tw,XiaogangStation,KHH,2020-07-28T00:00:00+08:00
+015,16224,{'Zh_tw': '國光客運'},(02)2381-0731、0800-010138,,http://www.kingbus.com.tw,KuoKuangBus,NWT,1101,2020-07-28T00:00:00+08:00
+010,55,"{'Zh_tw': '中鹿客運', 'En': 'Chung-Lu Bus Co., Ltd.'}",(04)774-3660,service@tr.ibus.com.tw,http://www.ibus.com.tw,ChungluBus,THB,THB-VO11-1,0402,2020-07-28T00:00:00+08:00
+010,55,"{'Zh_tw': '中鹿客運', 'En': 'Chung-Lu Bus Co., Ltd.'}",(04)774-3660,service@tr.ibus.com.tw,http://www.ibus.com.tw,ChungluBus,CHA,0402,2020-07-28T00:00:00+08:00
+010,26,"{'Zh_tw': '新營客運', 'En': 'Sinying Bus Co., Ltd.'}",(06)633-1100,service@singing168.com.tw,http://www.singing168.com.tw,SinyingBus,THB,THB-VO24-1,1306,2020-07-28T00:00:00+08:00
+008,10190,"{'Zh_tw': '新營客運', 'En': 'Sinying Bus Co., Ltd.'}",(06)633-1100,service@singing168.com.tw,http://www.singing168.com.tw,SinyingBus,TNN,1306,2020-07-28T00:00:00+08:00
+015,16237,"{'Zh_tw': '蘆洲區公所', 'En': 'Luzhou District Office'}",02-2281-1484,http://www.luzhou.ntpc.gov.tw,LuzhouDistrictOffice,NWT,2001,2020-07-28T00:00:00+08:00
+015,16183,{'Zh_tw': '大南汽車'}, (02)2858-6123,danbus.appeal@gmail.com,http://www.dnbus.com.tw/,DananBus,NWT,0307,2020-07-28T00:00:00+08:00
+009,20060,"{'Zh_tw': '興旺計程車', 'En': 'Xingwang Taxi'}",07-7533333,,KHH,1604,2021-03-12T04:07:19+08:00
+010,34,"{'Zh_tw': '統聯客運', 'En': 'United Highway Bus Co., Ltd.'}",(02)2995-7799、0800-676676,http://www.ubus.com.tw,http://ordertickets.ubus.com.tw/,0800-241560,UnitedHighwayBus,THB,THB-VO15-1,1201,2020-07-28T00:00:00+08:00
+010,34,"{'Zh_tw': '統聯客運', 'En': 'United Highway Bus Co., Ltd.'}",(02)2995-7799、0800-676676,http://www.ubus.com.tw,http://ordertickets.ubus.com.tw/,0800-241560,UnitedHighwayBus,HUA,1201,2020-07-28T00:00:00+08:00
+010,77,"{'Zh_tw': '太魯閣客運', 'En': 'Taroko Bus Co., Ltd.'}",(03)863-0150,tarokobusco.service@gmail.com,http://tarokobusco.blogspot.tw,TarokoBus,HUA,0412,2020-07-28T00:00:00+08:00
+007,14,"{'Zh_tw': '豐榮客運', 'En': 'Green Transit Bus Co., Ltd.'}",(04)2358-8800,green.bus@msa.hinet.net,http://www.gbus.com.tw,GreentransitBus,TXG,1802,2020-07-28T00:00:00+08:00
+007,18,"{'Zh_tw': '捷順交通', 'En': 'Jasun Bus Co., Ltd.'}",(04)2452-4898,http://www.jasunbus.com,JasunBus,TXG,1103,2020-07-28T00:00:00+08:00
+015,16248,"{'Zh_tw': '瑞芳區公所', 'En': 'Ruifang District Office'}",(02)2497-2250,http://www.ruifang.ntpc.gov.tw,RuifangDistrictOffice,NWT,1312,2020-07-28T00:00:00+08:00
+010,47,"{'Zh_tw': '豪泰客運', 'En': 'Howtai Bus Co., Ltd.'}",(02)2556-9397,howtai7080@gmail.com,http://www.howtai.com.tw,HowtaiBus,THB,THB-VO10-1,1405,2020-07-28T00:00:00+08:00
+015,16188,{'Zh_tw': '新北客運'},(02)2882-6780、0800-002277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,NewTaipeiBus,NWT,1302,2020-07-28T00:00:00+08:00
+011,5600,"{'Zh_tw': '基隆客運', 'En': 'Keelung Bus Co., Ltd.'}",(02)2433-6111、0800-588010,http://www.kl-bus.com.tw,KeelungBus,KEE,1102,2020-07-28T00:00:00+08:00
+009,10250,"{'Zh_tw': '東南客運', 'En': 'Southeast Bus Co., Ltd.'}",(02)8791-7201、(04)2226-3543,http://www.southeastbus.com,SoutheastBus,KHH,0804,2020-07-28T00:00:00+08:00
+045,200,"{'Zh_tw': '首都客運', 'En': 'Capital Bus Co., Ltd.'}",0800-000-866,http://www.capital-bus.com.tw,CapitalBus,TPE,0913,2020-07-28T00:00:00+08:00
+045,1000,"{'Zh_tw': '東南客運', 'En': 'Southeast Bus Co., Ltd.'}",(02)8791-7201,http://www.southeastbus.com,SoutheastBus,TPE,0804,2020-07-28T00:00:00+08:00
+015,16190,{'Zh_tw': '基隆客運'},(02)243-36111、0800-588010,,http://www.kl-bus.com.tw,KeelungBus,NWT,1102,2020-07-28T00:00:00+08:00
+010,90,{'Zh_tw': '大埔鄉公所'},,CYQ,0309,2021-02-02T12:00:00+08:00
+006,22,"{'Zh_tw': '亞通客運', 'En': 'Yatung Bus Co., Ltd.'}",(02)2712-8795,orange.bus@msa.hinet.net,http://www.orangebus.com.tw,YatungBus,TAO,0702,2020-07-28T00:00:00+08:00
+010,51,"{'Zh_tw': '指南客運', 'En': 'Zhinan Bus Co., Ltd.'}", (02)2882-6780、0800-002279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhinanBus,THB,THB-VO15-1,0907,2020-07-28T00:00:00+08:00
+015,16278,{'Zh_tw': '桃園客運'},(03)375-3711、0800-053808,tybus＠ms18.hinet.net,http://www.tybus.com.tw,TaoyuanBus,NWT,1002,2020-07-28T00:00:00+08:00
+015,16235,"{'Zh_tw': '林口區公所', 'En': 'Linkou District Office'}",（02）2603-3111,http://www.linkou.ntpc.gov.tw,LinkouDistrictOffice,NWT,0812,2020-07-28T00:00:00+08:00
+015,16243,"{'Zh_tw': '三峽區公所', 'En': 'Sanxia District Office'}",02-2671-1017,http://www.sanxia.ntpc.gov.tw,SanxiaDistrictOffice,NWT,0308,2020-07-28T00:00:00+08:00
+006,1,"{'Zh_tw': '桃園客運', 'En': 'Taoyuan Bus Co., Ltd.'}",(03)375-3711、0800-053808,tybus＠ms18.hinet.net,http://www.tybus.com.tw,TaoyuanBus,TAO,1002,2020-07-28T00:00:00+08:00
+010,40,"{'Zh_tw': '福和客運', 'En': 'Fuhobus Bus Co., Ltd.'}",(02)2452-7579、0800-000-569,service@fuhobus.com.tw,http://www.fuhobus.com.tw,FuhobusBus,THB,THB-VO10-1,1310,2020-07-28T00:00:00+08:00
+010,12,"{'Zh_tw': '桃園客運', 'En': 'Taoyuan Bus Co., Ltd.'}",(03)375-3711、0800-053808,tybus＠ms18.hinet.net,http://www.tybus.com.tw,TaoyuanBus,THB,THB-VO18-1,1002,2020-07-28T00:00:00+08:00
+010,84,"{'Zh_tw': '首都通運', 'En': 'Capital Bus Co., Ltd.'}",(02)2810-8081,http://www.capitaltour.com.tw,CapitalBusCo,THB,0913,2020-07-28T00:00:00+08:00
+015,16242,"{'Zh_tw': '樹林區公所', 'En': 'Shulin District Office'}",(02)2681-2106,http://www.shulin.ntpc.gov.tw,ShulinDistrictOffice,NWT,1603,2020-07-28T00:00:00+08:00
+009,10330,"{'Zh_tw': '義大客運', 'En': 'E-Da Bus TrafficCo., Ltd.'}",(07)657-7258、0800-352-520,info@edabus.com.tw,http://www.edabus.com.tw,EDaBus,KHH,1307,2020-07-28T00:00:00+08:00
+009,10037,"{'Zh_tw': '高市公車調管室', 'En': 'Kaohsiung Bus Dispatch Management Office'}",(07)229-9825#502、0800-889-116,KaohsiungBusDispatchManagementOffice,KHH,2020-07-28T00:00:00+08:00
+010,61,"{'Zh_tw': '員林客運', 'En': 'Yuan Lin Bus Co., Ltd.'}",(04)832-0101,yulinbus@gmail.com,http://www.ylbus.com.tw,YuanLinBus,THB,THB-VO11-1,1001,2020-07-28T00:00:00+08:00
+010,61,"{'Zh_tw': '員林客運', 'En': 'Yuan Lin Bus Co., Ltd.'}",(04)832-0101,yulinbus@gmail.com,http://www.ylbus.com.tw,YuanLinBus,NAN,1001,2020-07-28T00:00:00+08:00
+010,61,"{'Zh_tw': '員林客運', 'En': 'Yuan Lin Bus Co., Ltd.'}",(04)832-0101,yulinbus@gmail.com,http://www.ylbus.com.tw,YuanLinBus,CHA,1001,2020-07-28T00:00:00+08:00
+009,20080,"{'Zh_tw': '大發衛星大車隊', 'En': 'Dafa Taxi'}",07-3308888,,KHH,0311,2021-03-12T04:07:18+08:00
+009,20050,"{'Zh_tw': '凱旋大都會車隊', 'En': 'Kai-Xuan Metro Taxi'}",07-7241111,,KHH,1205,2021-03-12T04:07:18+08:00
+045,400,"{'Zh_tw': '三重客運', 'En': 'San Chung Bus Co., Ltd.'}",(02)2988-2133、0800-090607,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,TPE,0301,2020-07-28T00:00:00+08:00
+045,16125,"{'Zh_tw': '跨年專車', 'En': ""New Year's Eve Shuttle Bus""}",0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,NewYearEveBus,TPE,1314,2020-07-28T00:00:00+08:00
+007,1,"{'Zh_tw': '台中客運', 'En': 'Taichung Bus Co., Ltd.'}",(04)2225-5563、0800-800-126,http://www.tcbus.com.tw,TaichungBus,TXG,0501,2020-07-28T00:00:00+08:00
+011,1000,"{'Zh_tw': '基隆公車', 'En': 'Keelung City Bus Management Office'}",(02)2425-1768、(02)2462-9383,http://ebus.klcba.gov.tw,KeelungBusOffice,KEE,1107,2020-07-28T00:00:00+08:00
+010,46,"{'Zh_tw': '花蓮客運', 'En': 'Hualien Bus Co., Ltd.'}",(03)833-8146,http://www.hualienbus.com.tw/bus/hualien_bus.php,HualienBus,THB,THB-VO15-1,0805,2020-07-28T00:00:00+08:00
+015,16189,"{'Zh_tw': '中興巴士', 'En': 'Zhongxing Bus'}",0800-002-277,info@csgroup-bus.com.tw ,http://www.csgroup-bus.com.tw/,ZhongxingBus,NWT,0410,2020-07-28T00:00:00+08:00
+010,18,"{'Zh_tw': '科技之星交通', 'En': 'KJ-Star Bus Co., Ltd.'}",(03)531-6632,http://www.yosemite-bus.com.tw,KJ-StarBus,HSZ,0909,2020-07-28T00:00:00+08:00
+010,18,"{'Zh_tw': '科技之星交通', 'En': 'KJ-Star Bus Co., Ltd.'}",(03)531-6632,http://www.yosemite-bus.com.tw,KJ-StarBus,THB,THB-VO18-1,0909,2020-07-28T00:00:00+08:00
+010,18,"{'Zh_tw': '科技之星交通', 'En': 'KJ-Star Bus Co., Ltd.'}",(03)531-6632,http://www.yosemite-bus.com.tw,KJ-StarBus,HSQ,0909,2020-07-28T00:00:00+08:00
+010,35,"{'Zh_tw': '葛瑪蘭客運', 'En': 'Kamalan Bus Co., Ltd.'}",(03)956-6198、0800-220-899,service@kamalan.com.tw,http://www.kamalan.com.tw,http://secure.kamalan.com.tw/common_order.php,0800-220-899,KamalanBus,ILA,1308,2020-07-28T00:00:00+08:00
+010,35,"{'Zh_tw': '葛瑪蘭客運', 'En': 'Kamalan Bus Co., Ltd.'}",(03)956-6198、0800-220-899,service@kamalan.com.tw,http://www.kamalan.com.tw,http://secure.kamalan.com.tw/common_order.php,0800-220-899,KamalanBus,THB,THB-VO15-1,1308,2020-07-28T00:00:00+08:00
+009,20040,"{'Zh_tw': '倫永衛星大車隊', 'En': 'Lunyong Taxi'}",07-3708888,,KHH,1008,2021-03-12T04:07:18+08:00
+007,8,"{'Zh_tw': '和欣客運', 'En': 'Ho-Hsin Bus Co., Ltd.'}",(06)657-2370,ebus@mail2000.com.tw,http://www.ebus.com.tw,https://www.ebus.com.tw/online_trans/Web/Add_Step1.asp,0800-002377,HoHsinBus,TXG,0801,2020-07-28T00:00:00+08:00
+045,700,"{'Zh_tw': '欣欣客運', 'En': 'Shin-Shin Bus Co., Ltd.'}",(02) 2369-9696,http://www.shinbus.com.tw/,0800-032-159,ShinshinBus,TPE,0813,2020-07-28T00:00:00+08:00
+009,20030,"{'Zh_tw': '好客來衛星車隊', 'En': 'Hellocar Tour Service'}",07-3128889,,KHH,0608,2021-03-12T04:07:18+08:00
+009,10001,"{'Zh_tw': '建軍站', 'En': 'Jianjyun Station'}",(07)749-8668#5002,JianjyunStation,KHH,2020-07-28T00:00:00+08:00
+045,800,"{'Zh_tw': '大都會客運', 'En': 'Metropolitan Bus Co., Ltd.'}",0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,TPE,0303,2020-07-28T00:00:00+08:00
+009,10360,"{'Zh_tw': '港都客運', 'En': 'Great-City-Life Bus Co., Ltd.'}",(07)366-1986,http://www.gdbus.com.tw,GreatCityLifeBus,KHH,1203,2020-07-28T00:00:00+08:00
+009,10022,"{'Zh_tw': '左營南站', 'En': 'ZuoyingSouth Station'}",(07)585-3629,http://www.gdbus.com.tw,ZuoyingSouthStation,KHH,2020-07-28T00:00:00+08:00
+045,5200,"{'Zh_tw': '淡水客運', 'En': 'Tamshui Bus Co., Ltd.'}",(02)2882-6780 、0800-002279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,TamshuiBus,TPE,1104,2020-07-28T00:00:00+08:00
+015,16186,{'Zh_tw': '淡水客運'},?(02)2882-6780 、0800-002279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,TamshuiBus,NWT,1104,2020-07-28T00:00:00+08:00
+010,107,{'Zh_tw': '一粒麥子基金會'},,PIF,0101,2022-05-20T07:35:39+08:00
+007,5,"{'Zh_tw': '全航客運', 'En': 'Chuan Hang Bus Co., Ltd.'}",(04)2212-9715,chbus401@yahoo.com.tw ,http://www.chbus.com.tw,ChuanHangBus,TXG,0602,2020-07-28T00:00:00+08:00
+010,41,"{'Zh_tw': '三重客運', 'En': 'San Chung Bus Co., Ltd.'}",(02)2988-2133、,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,THB,THB-VO15-1,0301,2020-07-28T00:00:00+08:00
+010,42,"{'Zh_tw': '臺北客運', 'En': 'Taipei Bus Co., Ltd.'}",(02)2982-2886、0800-003-307,http://www.tpebus.com.tw,TaipeiBus,THB,THB-VO15-1,1407,2020-07-28T00:00:00+08:00
+010,42,"{'Zh_tw': '臺北客運', 'En': 'Taipei Bus Co., Ltd.'}",(02)2982-2886、0800-003-307,http://www.tpebus.com.tw,TaipeiBus,HUA,1407,2020-07-28T00:00:00+08:00
+009,65535,"{'Zh_tw': 'maxwin', 'En': 'Maxwin Technology'}",(02)2656-3868,roger.cheng@maxwin.com.tw,http://www.maxwin.com.tw,MaxwinTechnology,KHH,2020-07-28T00:00:00+08:00
+034,TYMC,"{'Zh_tw': '桃園大眾捷運股份有限公司', 'En': 'Taoyuan Metro Corporation'}",(03)286-8789,https://www.tymetro.com.tw/,TYMC,TYMC,5102,2020-07-28T00:00:00+08:00
+011,9600,{'Zh_tw': '歐特儀'},,KEE,2020-10-26T20:11:43+08:00
+010,104,"{'Zh_tw': '宜蘭縣政府', 'En': 'Yilan County Government'}",(03)925-1000,eaffairs2@mail.e-land.gov.tw,http://www.e-land.gov.tw,YilanCounty,ILA,0802,2020-07-28T00:00:00+08:00
+015,16176,"{'Zh_tw': '臺北客運', 'En': 'Taipei Bus Co., Ltd.'}",(02)2982-2886、0800-003-307,,http://www.tpebus.com.tw,TaipeiBus,NWT,1407,2020-07-28T00:00:00+08:00
+015,16244,"{'Zh_tw': '鶯歌區公所', 'En': 'Yingge District Office'}",(02) 2678 0202 ,http://www.yingge.ntpc.gov.tw,YinggeDistrictOffice,NWT,2201,2020-07-28T00:00:00+08:00
+015,16177,{'Zh_tw': '首都客運'},0800-000-866,,http://www.capital-bus.com.tw,CapitalBus,NWT,0913,2020-07-28T00:00:00+08:00
+002,THSR,"{'Zh_tw': '臺灣高速鐵路股份有限公司', 'En': 'Taiwan High Speed Rail Corporation'}",(02)8789-2000,https://www.thsrc.com.tw,https://irs.thsrc.com.tw/IMINT/,02-4066-0000,THSR,THSR,5002,2020-07-28T00:00:00+08:00
+010,68,"{'Zh_tw': '大都會客運', 'En': 'Metropolitan Bus Co., Ltd.'}",0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,ILA,0303,2020-07-28T00:00:00+08:00
+010,68,"{'Zh_tw': '大都會客運', 'En': 'Metropolitan Bus Co., Ltd.'}",0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,THB,THB-VO10-1,0303,2020-07-28T00:00:00+08:00
+015,16271,{'Zh_tw': '好樂好股份有限公司'},https://syyeh223.wixsite.com/halohaboat,,NWT,0606,2020-07-28T00:00:00+08:00
+010,87,{'Zh_tw': '泰樂客運'},,THB,THB-VO10-1,1006,2020-07-28T00:00:00+08:00
+010,113,{'Zh_tw': '東台灣客運'},,THB,THB-VO14-2,0816,2022-08-03T03:52:10+08:00
+009,10020,"{'Zh_tw': '金獅湖站', 'En': 'Golden Lion Lake Station'}",(07)350-9134,GoldenLionLakeStation,KHH,2020-07-28T00:00:00+08:00
+008,10160,"{'Zh_tw': '興南客運', 'En': 'Shing Nan Bus Co., Ltd.'}",(06)265-3121,http://www.snbus.com.tw,ShingNanBus,TNN,1601,2020-07-28T00:00:00+08:00
+009,20100,"{'Zh_tw': '澄清湖大車隊', 'En': 'Yes Taxi'}",07-7772222,,KHH,1502,2021-03-12T04:07:19+08:00
+008,16233,"{'Zh_tw': '漢程客運', 'En': 'Han-Cheng Bus Co., Ltd.'}",0800-889-116,service@tr.ibus.com.tw,http://www.ibus.com.tw,HanChengBus,TNN,1404,2020-07-28T00:00:00+08:00
+008,10008,"{'Zh_tw': '四方客運', 'En': 'Sf E-Bus Co., Ltd.'}",0800-058622,SiFangBus,TNN,0503,2020-07-28T00:00:00+08:00
+006,XB_16179,{'Zh_tw': '三重客運-16179'},(02)2988-2133、0800-090607 ,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,TAO,0301,2020-07-28T00:00:00+08:00
+045,16123,"{'Zh_tw': '皇家客運', 'En': 'Royal Bus Co., Ltd.'}",(02)8295-7022、0800-551-687,royal.bus@msn.com,http://www.royalbus.com.tw,RoyalBus,TPE,0908,2020-07-28T00:00:00+08:00
+006,3,{'Zh_tw': '指南客運'},(02)2882-6780、0800-002279,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhinanBus,TAO,0907,2020-07-28T00:00:00+08:00
+009,20130,"{'Zh_tw': '天龍車隊', 'En': 'Xinxingxiang Taxi'}",07-7676666,,KHH,0416,2021-03-12T04:07:18+08:00
+007,15,"{'Zh_tw': '中台灣客運', 'En': 'Ct Bus Co., Ltd.'}",0800-676676、0800-241560,service@easycard.com.tw,http://www.ubus.com.tw,CenterTaiwanBus,TXG,0401,2020-07-28T00:00:00+08:00
+028,KRTC,"{'Zh_tw': '高雄捷運股份有限公司', 'En': 'Kaohsiung Rapid Transit Corporation'}",(07)793-8888,https://www.krtco.com.tw/,KRTC,KRTC,5103,2020-07-28T00:00:00+08:00
+015,16250,"{'Zh_tw': '平溪區公所', 'En': 'Pingxi District Office'}",（02）2495-1510 ,http://www.pingxi.ntpc.gov.tw,PingxiDistrictOffice,NWT,0505,2020-07-28T00:00:00+08:00
+001,TRA,"{'Zh_tw': '交通部臺灣鐵路管理局', 'En': 'Taiwan Railways Administration'}",(02)2381-5226、0800-765-888,http://twtraffic.tra.gov.tw/twrail/,http://railway.hinet.net,02-412-1111,TRA,TRA,5001,2020-07-28T00:00:00+08:00
+009,2000010001,"{'Zh_tw': '測試調度1', 'En': 'Test dispatch 1'}",(07)229-9825#502、0800-889-116,Testdispatch1,KHH,2020-07-28T00:00:00+08:00
+009,10270,"{'Zh_tw': '統聯客運', 'En': 'United Highway Bus Co., Ltd.'}",(02)2995-7799、0800-676676,http://www.ubus.com.tw,http://ordertickets.ubus.com.tw/,0800-241560,UnitedHighwayBus,KHH,1201,2020-07-28T00:00:00+08:00
+010,114,{'Zh_tw': '興東客運'},,THB,THB-VO14-2,1602,2022-08-03T03:52:10+08:00
+010,111,{'Zh_tw': '路大汽車交通有限公司'},,PIF,1314,2022-05-20T07:35:39+08:00
+015,16178,{'Zh_tw': '新店客運'},(02)2666-0678,,http://www.sindianbus.com.tw,SindianBus,NWT,1304,2020-07-28T00:00:00+08:00
+009,20140,"{'Zh_tw': '瑞龍計程車', 'En': 'Ruilong Taxi'}",07-5555558,,KHH,1317,2021-03-12T04:07:18+08:00
+009,10012,"{'Zh_tw': '前鎮站', 'En': 'Qianzhen Station'}",(07)821-1344,http://www.gdbus.com.tw,QianzhenStation,KHH,2020-07-28T00:00:00+08:00
+007,2,"{'Zh_tw': '仁友客運', 'En': 'Ren-Yeou Bus Co., Ltd.'}",(0402382-6068、0800-889-116,service@tr.ibus.com.tw,http://www.ibus.com.tw,RenYeouBus,TXG,0406,2020-07-28T00:00:00+08:00
+015,16231,"{'Zh_tw': '石門區公所', 'En': 'Shimen District Office'}",（02）2638-1721 ,http://www.shimen.ntpc.gov.tw,ShimenDistrictOffice,NWT,0507,2020-07-28T00:00:00+08:00
+010,54,"{'Zh_tw': '全航客運', 'En': 'Chuan Hang Bus Co., Ltd.'}",(04)2212-9715,chbus401@yahoo.com.tw,http://www.chbus.com.tw,ChuanHangBus,THB,THB-VO11-1,0602,2020-07-28T00:00:00+08:00
+010,73,"{'Zh_tw': '尖石鄉公所', 'En': 'Jianshih Township Office'}",(03)584-1001,http://www.hccst.gov.tw,JianshihTownshipOffice,HSQ,0603,2020-07-28T00:00:00+08:00
+006,XB_16182,{'Zh_tw': '大都會客運-16182'},0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,TAO,0303,2020-07-28T00:00:00+08:00
+015,16254,"{'Zh_tw': '汐止區公所', 'En': 'Xizhi District Office'}",2641-1111； 0972640690,http://www.xizhi.ntpc.gov.tw,XizhiDistrictOffice,NWT,0607,2020-07-28T00:00:00+08:00
+010,91,{'Zh_tw': '阿里山鄉公所'},,CYQ,0819,2021-02-02T12:00:00+08:00
+009,10300,"{'Zh_tw': '南台灣客運', 'En': 'South Taiwan Bus Co., Ltd.'}",(07)310-9835,stbus88@gmail.com,http://www.stbus.com.tw,SouthTaiwanBus,KHH,0901,2020-07-28T00:00:00+08:00
+009,20070,"{'Zh_tw': '新形象計程車', 'En': 'Xinxingxiang Taxi'}",07-3156666,,KHH,1316,2021-03-12T04:07:18+08:00
+009,20020,"{'Zh_tw': '台灣大車隊', 'En': 'Taiwan Taxi '}",55688,,KHH,0508,2021-03-12T04:07:18+08:00
+007,4,"{'Zh_tw': '巨業交通', 'En': 'Geya Bus Co., Ltd.'}",(04)2662-1161,service@geyabus.com.tw,http://www.g-bus.com.tw,GeyaBus,TXG,0504,2020-07-28T00:00:00+08:00
+010,27,"{'Zh_tw': '日統客運', 'En': 'Solar Bus Co., Ltd.'}",(05)536-1176,http://www.solarbus.com.tw,SolarBus,THB,THB-VO24-1,0407,2020-07-28T00:00:00+08:00
+010,86,{'Zh_tw': '華聯客運'},,HUA,1204,2020-07-28T00:00:00+08:00
+006,87,"{'Zh_tw': '金台通運(免巴)', 'En': 'Kingtai Bus(Freebus)'}",03-5538321,jstour@ms48.hinet,JintaiTransport,TAO,0806,2020-10-27T12:22:32+08:00
+015,16229,"{'Zh_tw': '三芝區公所', 'En': 'Sanzhi District Office'}",（02）2636-2111,http://www.sanzhi.ntpc.gov.tw,SanzhiDistrictOffice,NWT,0304,2020-07-28T00:00:00+08:00
+015,16246,"{'Zh_tw': '深坑區公所', 'En': 'Shenkeng District Office'}",（02）2662-3116,http://www.shenkeng.ntpc.gov.tw,ShenkengDistrictOffice,NWT,1109,2020-07-28T00:00:00+08:00
+009,10310,"{'Zh_tw': '南台灣客運', 'En': 'South Taiwan Bus Co., Ltd.'}",(07)310-9835,stbus88@gmail.com,http://www.stbus.com.tw,SouthTaiwanBus,KHH,0901,2020-07-28T00:00:00+08:00
+010,15,"{'Zh_tw': '台聯客運', 'En': 'Taiwan United Bus Co., Ltd.'}",(02)2796-5665,eservice@e-go.com.tw,http://www.e-go.com.tw,TaiwanUnitedBus,THB,THB-VO10-1,0502,2020-07-28T00:00:00+08:00
+006,XB_16176,{'Zh_tw': '臺北客運-16176'},(02)2982-2886、0800-003-307,,http://www.tpebus.com.tw,TaipeiBus,TAO,1407,2020-07-28T00:00:00+08:00
+015,16236,"{'Zh_tw': '三重區公所', 'En': 'Sanchong District Office'}",(02)2986-2345,http://www.sanchong.ntpc.gov.tw/,SanchongDistrictOffice,NWT,0305,2020-07-28T00:00:00+08:00
+007,19,"{'Zh_tw': '中鹿客運', 'En': 'Chung-Lu Bus Co., Ltd.'}",(04)774-3660,service@tr.ibus.com.tw,http://www.ibus.com.tw,ChungluBus,TXG,0402,2020-07-28T00:00:00+08:00
+010,88,{'Zh_tw': '草屯鎮公所'},,NAN,1007,2021-02-02T12:00:00+08:00
+009,10021,"{'Zh_tw': '加昌站', 'En': 'JiaChang Station'}",(07)364-2482#5002,http://www.gdbus.com.tw,JiaChangStation,KHH,2020-07-28T00:00:00+08:00
+013,65535,"{'Zh_tw': 'maxwin', 'En': 'Maxwin Technology Co., Ltd.'}",(02)2656 3868,roger.cheng@maxwin.com.tw,http://www.maxwin.com.tw,MaxwinTechnologyCo,KIN,2020-07-28T00:00:00+08:00
+010,60,"{'Zh_tw': '彰化客運', 'En': 'Chang Hua Bus Co., Ltd.'}",(04)722-5111,chbus1@ms66.hinet.net,http://www.changhuabus.com.tw,ChangHuaBus,CHA,1403,2020-07-28T00:00:00+08:00
+010,60,"{'Zh_tw': '彰化客運', 'En': 'Chang Hua Bus Co., Ltd.'}",(04)722-5111,chbus1@ms66.hinet.net,http://www.changhuabus.com.tw,ChangHuaBus,NAN,1403,2020-07-28T00:00:00+08:00
+010,60,"{'Zh_tw': '彰化客運', 'En': 'Chang Hua Bus Co., Ltd.'}",(04)722-5111,chbus1@ms66.hinet.net,http://www.changhuabus.com.tw,ChangHuaBus,THB,THB-VO11-1,1403,2020-07-28T00:00:00+08:00
+010,52,"{'Zh_tw': '光華巴士', 'En': 'Kuang-Hua Bus Co., Ltd.'}",0800-002-277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,KuangHuaBus.,THB,THB-VO10-1,0601,2020-07-28T00:00:00+08:00
+015,16234,"{'Zh_tw': '五股區公所', 'En': 'Wugu District Office'}",（02）2291-6051,http://www.wugu.ntpc.gov.tw,WuguDistrictOffice,NWT,0411,2020-07-28T00:00:00+08:00
+007,23,{'Zh_tw': '國光客運'},(02)2381-0731、0800-010138,,http://www.kingbus.com.tw,KuoKuangBus,TXG,1101,2020-07-28T00:00:00+08:00
+007,21,{'Zh_tw': '總達客運'},(04)2223-9666、0800-021-258,,http://www.alldaybus.com,AllDayBus,TXG,1702,2020-07-28T00:00:00+08:00
+015,16245,"{'Zh_tw': '新店區公所', 'En': 'Xindian District Office'}",（02）29112281,http://www.xindian.ntpc.gov.tw,XindianDistrictOffice,NWT,1311,2020-07-28T00:00:00+08:00
+010,80,"{'Zh_tw': '雲林客運', 'En': 'Yunlin Bus TrafficCo., Ltd.'}",0800-285-897,http://www.yunlinbus.com,YunlinBus,YUN,1301,2020-07-28T00:00:00+08:00
+006,XB_16177,{'Zh_tw': '首都客運-16177'},0800-000-866,,http://www.capital-bus.com.tw,CapitalBus,TAO,0913,2020-07-28T00:00:00+08:00
+010,14,"{'Zh_tw': '苗栗客運', 'En': 'Miaoli Bus Co., Ltd.'}",(037)-662111#3,http://www.mlbus.com.tw,MiaoliBus,HSZ,0911,2020-07-28T00:00:00+08:00
+010,14,"{'Zh_tw': '苗栗客運', 'En': 'Miaoli Bus Co., Ltd.'}",(037)-662111#3,http://www.mlbus.com.tw,MiaoliBus,THB,THB-VO18-1,0911,2020-07-28T00:00:00+08:00
+045,5300,"{'Zh_tw': '光華巴士', 'En': 'Kuang-Hua Bus Co., Ltd.'}",0800-002-277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,KuangHuaBus.,TPE,0601,2020-07-28T00:00:00+08:00
+015,16238,"{'Zh_tw': '中和區公所', 'En': 'Zhonghe District Office'}",02-2248-2688,http://www.zhonghe.ntpc.gov.tw,ZhongheDistrictOffice,NWT,0408,2020-07-28T00:00:00+08:00
+010,21,"{'Zh_tw': '臺西客運', 'En': 'Taisi Bus Co., Ltd.'}",(05)632-2284、0800-200079,tsbus322500@gmail.com,http://www.taisibus.com,TaisiBus,THB,THB-VO24-1,1408,2020-07-28T00:00:00+08:00
+010,21,"{'Zh_tw': '臺西客運', 'En': 'Taisi Bus Co., Ltd.'}",(05)632-2284、0800-200079,tsbus322500@gmail.com,http://www.taisibus.com,TaisiBus,THB-VO24-1,1408,2020-07-28T00:00:00+08:00
+010,21,"{'Zh_tw': '臺西客運', 'En': 'Taisi Bus Co., Ltd.'}",(05)632-2284、0800-200079,tsbus322500@gmail.com,http://www.taisibus.com,TaisiBus,YUN,1408,2020-07-28T00:00:00+08:00
+010,44,"{'Zh_tw': '亞聯客運', 'En': 'Yalan Bus Co., Ltd.'}",(02)2218-6266,http://www.yalanbus.com.tw,YalanBus,THB,THB-VO15-1,0703,2020-07-28T00:00:00+08:00
+009,10192,"{'Zh_tw': '即時運輸測試', 'En': 'Immediate Transport Test'}",07-2299825#502、0800-889-116,ImmediateTransportTest,KHH,2020-07-28T00:00:00+08:00
+009,10350,"{'Zh_tw': '漢程客運', 'En': 'Han-Cheng Bus Co., Ltd.'}",0800-889-116,service@tr.ibus.com.tw,http://www.ibus.com.tw,HanChengBus,KHH,1404,2020-07-28T00:00:00+08:00
+009,20090,"{'Zh_tw': '皇冠大車隊', 'En': 'Crown Taxi(Shuttle Taxi)'}",5510,,KHH,0914,2021-03-12T04:07:18+08:00
+010,22,"{'Zh_tw': '嘉義縣公車處', 'En': 'Chiayi County Bus Service Administration'}",(05)278-8177,bus.a6666@msa.hinet.net,http://www.cybus.gov.tw,ChiayiBusOffice,THB,THB-VO24-1,1402,2020-07-28T00:00:00+08:00
+010,22,"{'Zh_tw': '嘉義縣公車處', 'En': 'Chiayi County Bus Service Administration'}",(05)278-8177,bus.a6666@msa.hinet.net,http://www.cybus.gov.tw,ChiayiBusOffice,CYQ,1402,2020-07-28T00:00:00+08:00
+007,11,"{'Zh_tw': '東南客運', 'En': 'Southeast Bus Co., Ltd.'}",(02)8791-7201,http://www.southeastbus.com,SoutheastBus,TXG,0804,2020-07-28T00:00:00+08:00
+015,16251,"{'Zh_tw': '貢寮區公所', 'En': 'Gongliao District Office'}",（02）2494-1601,http://www.gongliao.ntpc.gov.tw,GongliaoDistrictOffice,NWT,1005,2020-07-28T00:00:00+08:00
+015,16230,"{'Zh_tw': '八里區公所', 'En': 'Bali District Office'}",（02）2610-2621,http://www.bali.ntpc.gov.tw,BaliDistrictOffice,NWT,0201,2020-07-28T00:00:00+08:00
+010,38,"{'Zh_tw': '新北客運', 'En': 'New Taipei Bus Co., Ltd.'}",(02)2882-6780、0800-002277,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,NewTaipeiBus,THB,THB-VO10-1,1302,2020-07-28T00:00:00+08:00
+015,16181,{'Zh_tw': '欣欣客運'},0800-032-159,,http://www.shinbus.com.tw/,Shin-Shin Bus,NWT,0813,2020-07-28T00:00:00+08:00
+009,10290,"{'Zh_tw': '測試調度', 'En': 'Test Dispatch'}",(07)229-9825#502、0800-889-116,TestDispatch,KHH,2020-07-28T00:00:00+08:00
+010,64,"{'Zh_tw': '南投客運', 'En': 'Nantou Bus Co., Ltd.'}",(04)9298-4031,ntbus.co@msa.hinet.net,http://www.ntbus.com.tw,NantouBus,NAN,0902,2020-07-28T00:00:00+08:00
+010,64,"{'Zh_tw': '南投客運', 'En': 'Nantou Bus Co., Ltd.'}",(04)9298-4031,ntbus.co@msa.hinet.net,http://www.ntbus.com.tw,NantouBus,THB,THB-VO11-1,0902,2020-07-28T00:00:00+08:00
+010,39,"{'Zh_tw': '首都客運', 'En': 'Capital Bus Co., Ltd.'}",0800-000-866,http://www.capital-bus.com.tw,CapitalBus,THB,THB-VO15-1,0913,2020-07-28T00:00:00+08:00
+010,39,"{'Zh_tw': '首都客運', 'En': 'Capital Bus Co., Ltd.'}",0800-000-866,http://www.capital-bus.com.tw,CapitalBus,ILA,0913,2020-07-28T00:00:00+08:00
+010,39,"{'Zh_tw': '首都客運', 'En': 'Capital Bus Co., Ltd.'}",0800-000-866,http://www.capital-bus.com.tw,CapitalBus,HUA,0913,2020-07-28T00:00:00+08:00
+015,16182,{'Zh_tw': '大都會客運'},0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,NWT,0303,2020-07-28T00:00:00+08:00
+010,78,"{'Zh_tw': '澎湖縣公共車船管理處', 'En': 'City Bus and Ferry Management Office, Penghu County'}",(06)9213822,dpbs@phpto.penghu.gov.tw,http://www.phpto.gov.tw,PenghuBusFerryOffice,PEN,1501,2020-07-28T00:00:00+08:00
+045,100,"{'Zh_tw': '臺北客運', 'En': 'Taipei Bus Co., Ltd.'}",(02)2982-2886、0800-003-307,http://www.tpebus.com.tw,TaipeiBus,TPE,1407,2020-07-28T00:00:00+08:00

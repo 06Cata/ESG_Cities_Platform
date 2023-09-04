@@ -1,0 +1,1230 @@
+{
+    "CongestionLevelList": {
+        "@xsi:schemaLocation": "http://traffic.transportdata.tw/standard/traffic/schema/",
+        "@xmlns": "http://traffic.transportdata.tw/standard/traffic/schema/",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "UpdateTime": "2023-07-11T01:16:11+08:00",
+        "UpdateInterval": "86400",
+        "AuthorityCode": "THB",
+        "CongestionLevels": {
+            "CongestionLevel": [
+                {
+                    "CongestionLevelID": "A",
+                    "CongestionLevelName": "\u7701\u9053A",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "63"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "62",
+                                "LowValue": "32"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "31",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "B",
+                    "CongestionLevelName": "\u7701\u9053B",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "63"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "62",
+                                "LowValue": "37"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "36",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "C",
+                    "CongestionLevelName": "\u7701\u9053C",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "63"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "62",
+                                "LowValue": "36"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "35",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "D",
+                    "CongestionLevelName": "\u7701\u9053D",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "60"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "59",
+                                "LowValue": "40"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "39",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "E",
+                    "CongestionLevelName": "\u7701\u9053E",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "60"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "59",
+                                "LowValue": "40"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "39",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "F",
+                    "CongestionLevelName": "\u7701\u9053F",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "56"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "55",
+                                "LowValue": "36"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "35",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "G",
+                    "CongestionLevelName": "\u7701\u9053G",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "56"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "55",
+                                "LowValue": "32"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "31",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "H",
+                    "CongestionLevelName": "\u7701\u9053H",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "56"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "55",
+                                "LowValue": "32"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "31",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "I",
+                    "CongestionLevelName": "\u7701\u9053I",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "50"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "49",
+                                "LowValue": "30"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "29",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "J",
+                    "CongestionLevelName": "\u7701\u9053J",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "49"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "48",
+                                "LowValue": "28"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "27",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "K",
+                    "CongestionLevelName": "\u7701\u9053K",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "49"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "48",
+                                "LowValue": "28"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "27",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "L",
+                    "CongestionLevelName": "\u7701\u9053L",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "48"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "47",
+                                "LowValue": "24"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "23",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "M",
+                    "CongestionLevelName": "\u7701\u9053M",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "45"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "44",
+                                "LowValue": "30"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "29",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "N",
+                    "CongestionLevelName": "\u7701\u9053N",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "45"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "44",
+                                "LowValue": "24"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "23",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "O",
+                    "CongestionLevelName": "\u7701\u9053O",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "45"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "44",
+                                "LowValue": "16"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "15",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "P",
+                    "CongestionLevelName": "\u7701\u9053P",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "43"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "42",
+                                "LowValue": "18"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "17",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "Q",
+                    "CongestionLevelName": "\u7701\u9053Q",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "42"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "41",
+                                "LowValue": "24"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "23",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "R",
+                    "CongestionLevelName": "\u7701\u9053R",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "42"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "41",
+                                "LowValue": "28"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "27",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "S",
+                    "CongestionLevelName": "\u7701\u9053S",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "40"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "39",
+                                "LowValue": "28"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "27",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "T",
+                    "CongestionLevelName": "\u7701\u9053T",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "40"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "39",
+                                "LowValue": "20"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "19",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "U",
+                    "CongestionLevelName": "\u7701\u9053U",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "36"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "35",
+                                "LowValue": "15"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "14",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "V",
+                    "CongestionLevelName": "\u7701\u9053V",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "35"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "34",
+                                "LowValue": "24"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "23",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "W",
+                    "CongestionLevelName": "\u7701\u9053W",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "35"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "34",
+                                "LowValue": "20"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "19",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "X",
+                    "CongestionLevelName": "\u7701\u9053X",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "35"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "34",
+                                "LowValue": "20"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "19",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "Y",
+                    "CongestionLevelName": "\u7701\u9053Y",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "32"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "31",
+                                "LowValue": "16"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "15",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "Z",
+                    "CongestionLevelName": "\u7701\u9053Z",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "29"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "28",
+                                "LowValue": "12"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "11",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "AA",
+                    "CongestionLevelName": "\u7701\u9053AA",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "28"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "27",
+                                "LowValue": "20"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "19",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "AB",
+                    "CongestionLevelName": "\u7701\u9053AB",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "28"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "27",
+                                "LowValue": "16"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "15",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "AC",
+                    "CongestionLevelName": "\u7701\u9053AC",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "22"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "21",
+                                "LowValue": "9"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "8",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "AD",
+                    "CongestionLevelName": "\u7701\u9053AD",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "21"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "20",
+                                "LowValue": "12"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "11",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "AE",
+                    "CongestionLevelName": "\u7701\u9053AE",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "19"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "18",
+                                "LowValue": "8"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "7",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CongestionLevelID": "AF",
+                    "CongestionLevelName": "\u7701\u9053AF",
+                    "MeasureIndex": "Speed",
+                    "Levels": {
+                        "Level": [
+                            {
+                                "Level": "-1",
+                                "LevelName": "\u9053\u8def\u5c01\u9589",
+                                "TopValue": "-1",
+                                "LowValue": "-1"
+                            },
+                            {
+                                "Level": "0",
+                                "LevelName": "\u8cc7\u6599\u4e0d\u8db3",
+                                "TopValue": "-99",
+                                "LowValue": "-99"
+                            },
+                            {
+                                "Level": "1",
+                                "LevelName": "\u9806\u66a2",
+                                "LowValue": "14"
+                            },
+                            {
+                                "Level": "2",
+                                "LevelName": "\u8eca\u591a",
+                                "TopValue": "13",
+                                "LowValue": "8"
+                            },
+                            {
+                                "Level": "3",
+                                "LevelName": "\u58c5\u585e",
+                                "TopValue": "7",
+                                "LowValue": "0"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

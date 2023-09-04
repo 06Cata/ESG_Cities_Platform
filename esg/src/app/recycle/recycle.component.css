@@ -1,0 +1,367 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
+/* 標題 */
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff; /* 字體顏色 */
+  background-color: rgba(48, 47, 49, 0.7); 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.title::before {
+  content: "♻️"; 
+  margin-right: 10px;
+}
+
+
+.title-container {
+  display: flex;
+  margin-bottom: 30px;
+  margin-left: 20px; /* 這裡調整左邊的間距 */
+}
+
+
+@media screen and (max-width: 768px) {
+  .title{
+    font-size:28px;
+  }
+  .title-container {
+    max-width: 80%;
+  }
+}
+
+
+@media screen and (max-width: 576px) {
+  .title{
+    font-size:24px;
+  }
+  .title-container {
+    max-width: 60%;
+  }
+}
+
+/* 圖表部分 */
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px ;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  color: #064b23;
+  font-size: 2vw;
+  font-family: 'Noto Sans TC', sans-serif;
+  line-height: 1.6;
+  font-weight: bold;
+}
+
+.chart-title{
+  display: flex;
+  justify-self: start;
+}
+
+.total {
+  display: flex;
+  align-items: center;
+}
+
+.threeyears {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.chart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.chart p {
+  font-size: 1vw;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  margin: 10px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* 響應式設計 */
+@media screen and (max-width: 768px) {
+  .chart p {
+    font-size: 1.8vw;
+  }
+}
+
+
+.wrapper {
+  background-color: #ffffff; /* 白色底色 */
+  border-radius: 10px; /* 圓角 */
+  padding: 20px; /* 設定內邊距，可根據需求自行調整 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 加入陰影效果，讓容器有立體感 */
+  margin: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Noto Sans TC', sans-serif;
+  line-height: 1.6;
+  color: #328231;
+  font-weight: bold;
+  font-size: 1.6vw;
+}
+
+/* 第一段描述 */
+
+.illustrate {
+  margin-bottom: 20px;
+  max-width: 100%;
+  color: #328231;
+  font-weight: bold;
+  font-size: 1.6vw;
+}
+
+.container {
+  text-align: justify;
+  border-radius: 20px;
+  padding: 0 40px;
+  margin: 20px 60px;
+  color: #064b23;
+}
+
+
+.illustrate p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #064b23;
+  font-size: 1.2vw;
+}
+
+.illustrate ul {
+  list-style-type: disc;
+  margin-left: 30px;
+  color: #328231;
+  font-size: 1vw;
+}
+
+.illustrate li {
+  margin-bottom: 5px;
+}
+
+
+
+
+/* 焚化率及回收的部分 */
+.incineration {
+  text-align: justify;
+  /* border: 2px solid rgb(92, 54, 5); */
+  border-radius: 20px;
+  padding: 0 40px;
+  margin: 20px 60px;
+}
+.incineration p {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #064b23;
+  font-size: 1.2vw;
+}
+
+.incineration ol {
+  counter-reset: item;
+  padding-left: 20px;
+  color: #328231;
+  font-size: 1vw;
+}
+
+.incineration li {
+  padding-left: 30px;
+  margin-bottom: 8px;
+}
+
+.incineration ol li {
+  list-style: none;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 8px;
+}
+
+.incineration strong {
+  font-weight: bold;
+  color: #FF0000;
+}
+
+.incineration ol li::before {
+  content: counter(item);
+  counter-increment: item;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+}
+
+.star-icon{
+  margin-right: 5px;
+}
+
+/* 將 iframe 置中 */
+.iframe-page {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* 媒體查詢 */
+@media (max-width: 600px) {
+  /* 視窗寬度小於600px時，設定container的最大寬度 */
+
+  .iframe-page iframe {
+    width: 100%; 
+    height: 100%; 
+  }
+}
+
+/* 摘要部分 */
+
+.Summarize{
+  text-align: justify;
+  /* border: 2px solid rgb(92, 54, 5); */
+  border-radius: 20px;
+  padding: 0 40px;
+  margin: 20px 60px;
+}
+
+.Summarize p {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #064b23;
+  font-size: 1.2vw;
+}
+
+.Summarize ol {
+  counter-reset: item;
+  padding-left: 20px;
+  color: #328231;
+  font-size: 1vw;
+}
+
+.Summarize ol li {
+  list-style: none;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 8px;
+}
+
+.Summarize ol li::before {
+  content: counter(item);
+  counter-increment: item;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+}
+
+.feelings p {
+  margin-bottom: 10px;
+}
+
+.iframe-page {
+  text-align: center;
+}
+
+
+
+/* 返回頁首按鈕 */
+.back-to-home {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    font-size: 18px;
+    line-height: 1.2;
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+  
+  /* .back-to-home:before {
+    content: "\2190";
+  } */
+    
+    /* 按鈕懸停效果 */
+    button:hover {
+      background-color: #45a049; /* 懸停時的背景顏色 */
+    }
+    
+    /* 按鈕點擊效果 */
+    button:active {
+      background-color: #207c23; /* 點擊時的背景顏色 */
+    }
+
+
+/* 頁尾樣式 */
+.footer {
+  margin-top: 20px;
+  background-color: #fbf9ff;
+  padding: 5px;
+  text-align: center;
+}
+
+.info {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+    
+.info-message {
+  margin: 10px;
+  font-size: 18px;
+  color: #1f4b06;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.from::before {
+  content: "♻️"; 
+  margin-right: 10px;
+}
+
+.info-message a {
+  color: #064b23;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+.info-message a:hover {
+  color: #b32a00;
+}
+
+
+/* 響應式設計 */
+@media screen and (max-width: 768px) {
+
+  .info {
+    flex-direction: column;
+  }
+
+}

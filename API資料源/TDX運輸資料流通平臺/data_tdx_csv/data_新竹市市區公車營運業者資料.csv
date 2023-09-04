@@ -1,0 +1,6 @@
+ProviderID,OperatorID,OperatorName,OperatorPhone,OperatorEmail,OperatorUrl,OperatorCode,AuthorityCode,OperatorNo,UpdateTime
+010,13,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",(03)522-5151~8,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,HSZ,1303,2023-07-13T07:38:39+08:00
+010,14,"{'Zh_tw': '苗栗客運', 'En': 'Miaoli Bus Co., Ltd.'}",(037)-662111#3,http://www.mlbus.com.tw,MiaoliBus,HSZ,0911,2023-07-13T07:38:39+08:00
+010,18,"{'Zh_tw': '科技之星交通', 'En': 'KJ-Star Bus Co., Ltd.'}",(03)531-6632,http://www.yosemite-bus.com.tw,KJ-StarBus,HSZ,0909,2023-07-13T07:38:39+08:00
+010,45,"{'Zh_tw': '國光客運', 'En': 'Kuo-Kuang Bus Co., Ltd.'}",(02)2381-0731、0800-010138,http://www.kingbus.com.tw,https://order.kingbus.com.tw/ORD/Ord_M_1500_HomePage.aspx,0800-010138,KuoKuangBus,HSZ,1101,2023-07-13T07:38:39+08:00
+010,67,"{'Zh_tw': '金牌客運', 'En': 'Champion Bus Co., Ltd.'}",(03)553-8686,http://www.gobus.com.tw,ChampionBus,HSZ,0808,2023-07-13T07:38:39+08:00

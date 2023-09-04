@@ -1,0 +1,1153 @@
+{
+    "ETagPairLiveList": {
+        "@xsi:schemaLocation": "http://traffic.transportdata.tw/standard/traffic/schema/",
+        "@xmlns": "http://traffic.transportdata.tw/standard/traffic/schema/",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "UpdateTime": "2023-07-11T17:00:43+08:00",
+        "UpdateInterval": "300",
+        "AuthorityCode": "THB",
+        "ETagPairLives": {
+            "ETagPairLive": [
+                {
+                    "ETagPairID": "469",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "396",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "90",
+                            "VehicleCount": "1"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "428",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1141",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "58",
+                            "VehicleCount": "76"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "476",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1283",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "64",
+                            "VehicleCount": "34"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "474",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "427",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "19",
+                            "VehicleCount": "26"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "475",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "992",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "43",
+                            "VehicleCount": "14"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "387",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "411",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "25",
+                            "VehicleCount": "248"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "384",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "793",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "41",
+                            "VehicleCount": "136"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "417",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1191",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "81",
+                            "VehicleCount": "40"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "427",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "832",
+                            "StandardDeviation": "0",
+                            "SpaceMeanSpeed": "80",
+                            "VehicleCount": "0"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "538",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "240",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "90",
+                            "VehicleCount": "37"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "343",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "840",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "30",
+                            "VehicleCount": "67"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "482",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "662",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "39",
+                            "VehicleCount": "23"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "491",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "460",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "90",
+                            "VehicleCount": "20"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "401",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "311",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "15",
+                            "VehicleCount": "62"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "492",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "3600",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "80",
+                            "VehicleCount": "6"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "419",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "797",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "19",
+                            "VehicleCount": "30"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "481",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "430",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "74",
+                            "VehicleCount": "66"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "410",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "824",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "11",
+                            "VehicleCount": "32"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "484",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "482",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "55",
+                            "VehicleCount": "16"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "488",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "801",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "69",
+                            "VehicleCount": "72"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "389",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "316",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "52",
+                            "VehicleCount": "66"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "414",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "4338",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "45",
+                            "VehicleCount": "36"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "409",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "720",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "13",
+                            "VehicleCount": "32"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "426",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "901",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "38",
+                            "VehicleCount": "14"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "376",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "629",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "49",
+                            "VehicleCount": "31"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "485",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "766",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "85",
+                            "VehicleCount": "18"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "415",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "333",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "55",
+                            "VehicleCount": "59"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "480",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "112",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "90",
+                            "VehicleCount": "33"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "465",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "202",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "87",
+                            "VehicleCount": "8"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "391",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "554",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "36",
+                            "VehicleCount": "83"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "386",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "230",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "45",
+                            "VehicleCount": "196"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "331",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1602",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "60",
+                            "VehicleCount": "2"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "388",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "386",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "55",
+                            "VehicleCount": "71"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "468",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "770",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "64",
+                            "VehicleCount": "14"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "438",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "424",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "51",
+                            "VehicleCount": "31"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "470",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "420",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "90",
+                            "VehicleCount": "40"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "464",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "600",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "90",
+                            "VehicleCount": "30"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "330",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1521",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "60",
+                            "VehicleCount": "3"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "390",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "661",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "30",
+                            "VehicleCount": "46"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "546",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "67",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "70",
+                            "VehicleCount": "32"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "400",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "108",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "10"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "323",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "230",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "7"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "443",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "299",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "7"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "324",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "430",
+                            "StandardDeviation": "0",
+                            "SpaceMeanSpeed": "46",
+                            "VehicleCount": "0"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "442",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "396",
+                            "StandardDeviation": "0",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "0"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "325",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "427",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "35",
+                            "VehicleCount": "12"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "444",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1033",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "10"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "429",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "230",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "12"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "327",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1033",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "9"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "326",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "247",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "22",
+                            "VehicleCount": "9"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "416",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "269",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "68",
+                            "VehicleCount": "47"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "487",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "618",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "49",
+                            "VehicleCount": "66"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "486",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "488",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "90",
+                            "VehicleCount": "29"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "439",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1450",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "15",
+                            "VehicleCount": "26"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "361",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1512",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "13"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "365",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "2239",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "43",
+                            "VehicleCount": "9"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "364",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "1560",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "60",
+                            "VehicleCount": "11"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "362",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "433",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "10",
+                            "VehicleCount": "17"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "440",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "83",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "43",
+                            "VehicleCount": "30"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "441",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "950",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "27",
+                            "VehicleCount": "30"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "358",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "601",
+                            "StandardDeviation": "0",
+                            "SpaceMeanSpeed": "50",
+                            "VehicleCount": "0"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "473",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "375",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "60",
+                            "VehicleCount": "31"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "377",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "318",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "60",
+                            "VehicleCount": "22"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "435",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "853",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "30",
+                            "VehicleCount": "48"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "975",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "96",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "23",
+                            "VehicleCount": "47"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "977",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "227",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "37",
+                            "VehicleCount": "47"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                },
+                {
+                    "ETagPairID": "976",
+                    "StartETagStatus": "0",
+                    "EndETagStatus": "0",
+                    "Flows": {
+                        "Flow": {
+                            "VehicleType": "3",
+                            "TravelTime": "205",
+                            "StandardDeviation": "5",
+                            "SpaceMeanSpeed": "31",
+                            "VehicleCount": "92"
+                        }
+                    },
+                    "StartTime": "2023-07-11T16:55:43+08:00",
+                    "EndTime": "2023-07-11T17:00:43+08:00",
+                    "DataCollectTime": "2023-07-11T17:00:43+08:00"
+                }
+            ]
+        }
+    }
+}

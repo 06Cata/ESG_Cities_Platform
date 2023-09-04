@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+
+*{
+    box-sizing: border-box;
+    /* 前一個檔案學到加上padding跟border會導致原本設置的長寬會變更大，加上這個後padding跟border就會往內切，而最大值將會保持在你設定的長寬。 */
+}
+
+.background-container {
+  position: fixed;
+  z-index: -10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('/assets/background.png') no-repeat center center;
+  background-size: cover;
+}
+
+
+html, body { height: 100%; }
+
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mat-mdc-tab-group,
+.mat-mdc-tab-nav-bar {
+  --mat-tab-header-inactive-label-text-color: #35982c;
+  --mat-tab-header-inactive-focus-label-text-color: #110c74;
+  --mat-tab-header-inactive-hover-label-text-color: #110c74;
+}
+
+

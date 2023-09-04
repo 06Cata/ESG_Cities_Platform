@@ -1,0 +1,224 @@
+{
+    "totalPage": 1,
+    "totalDataSize": 24,
+    "page": 1,
+    "size": 1000,
+    "responseData": [
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T14:00:00",
+            "EffectiveWaterStorageCapacity": "1743",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T15:00:00",
+            "EffectiveWaterStorageCapacity": "1743",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T16:00:00",
+            "EffectiveWaterStorageCapacity": "1743",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T17:00:00",
+            "EffectiveWaterStorageCapacity": "1743",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T18:00:00",
+            "EffectiveWaterStorageCapacity": "1743",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T19:00:00",
+            "EffectiveWaterStorageCapacity": "1743",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T20:00:00",
+            "EffectiveWaterStorageCapacity": "1743",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T21:00:00",
+            "EffectiveWaterStorageCapacity": "1742",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T22:00:00",
+            "EffectiveWaterStorageCapacity": "1742",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-12T23:00:00",
+            "EffectiveWaterStorageCapacity": "1742",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T00:00:00",
+            "EffectiveWaterStorageCapacity": "1742",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T01:00:00",
+            "EffectiveWaterStorageCapacity": "1742",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T02:00:00",
+            "EffectiveWaterStorageCapacity": "1742",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.68"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T03:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0.2",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T04:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T05:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T06:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T07:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T08:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T09:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T10:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T11:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T12:00:00",
+            "EffectiveWaterStorageCapacity": "1740",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.66"
+        },
+        {
+            "AccumulatedRainfall": "0.2",
+            "Date": "2023-07-13T13:00:00",
+            "EffectiveWaterStorageCapacity": "1741",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "42",
+            "ReservoirName": "牡丹水庫",
+            "WaterLevel": "134.67"
+        }
+    ]
+}

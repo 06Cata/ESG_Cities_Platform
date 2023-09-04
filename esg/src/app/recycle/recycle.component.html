@@ -1,0 +1,103 @@
+<div class="title-container">
+    <div class="title">各縣市廢棄物處理/垃圾產生現況</div>
+</div>
+
+<div class="chart-container">
+    <div class="chart-title"><span class="star-icon">🌟</span>三年各廢棄物統計比較圖</div>
+    <div class="total">
+        <div class="chart">
+            <canvas id="chartCanvas1" width="400" height="300"></canvas>
+            <p>總廢棄物產生量比較圖</p>
+            <p>廢棄物可分成三個類別 : 回收、垃圾、廚餘，這是三年來三個類別的分析圖</p>
+        </div>
+    </div>
+    <div class="threeyears">
+        <div class="chart">
+            <canvas id="chartCanvas2" width="400" height="300"></canvas>
+            <p>三年回收類廢棄物總量比較</p>
+        </div>
+        <div class="chart">
+            <canvas id="chartCanvas3" width="400" height="300"></canvas>
+            <p>三年一般垃圾總量比較</p>
+        </div>
+        <div class="chart">
+            <canvas id="chartCanvas4" width="400" height="300"></canvas>
+            <p>三年廚餘總量比較</p>
+        </div>
+    </div>
+</div>
+<div class="wrapper">
+    <div class="illustrate">
+        <div class="container">
+            <p>目前一般廢棄物處理方式以焚化為主，僅少部分採掩埋法。台灣的焚化廠截至2023年為止在運作中一共有25座。但卻不是每個縣市都有焚化廠。</p>
+            <p>全台一般廢棄物數量逐年攀升，2020年達990萬噸，2021年更上升至1006萬2344噸。平均每人每年產生約20.6公斤廚餘和428.5公斤一般垃圾。在過去三年，各縣市產生廢棄物總量呈現緩慢上升。</p>
+            <!-- <p>再以下圖分析2022年累計各縣市環保資料中的焚化率以及回收使用率可以得到以下一些觀察:</p> -->
+        </div>
+        <div><span class="star-icon">🌟</span>各縣市廢棄物處理焚化率、處理回收再利用率
+        </div>
+        <div class="iframe-page">
+            <iframe src="http://34.80.175.10:5601/kibana_iframe/app/dashboards#/view/3f80fc60-30d1-11ee-afac-f7bcffaa2a37?embed=true&_g=(filters%3A!())&show-time-filter=true&hide-filter-bar=true" height="1220" width="1300"></iframe>
+        </div>
+
+
+        <div class="incineration">
+            <ol>
+                <p><span class="star-icon">🎈</span>我們可以就四點來討論以上的圖表分析:</p>
+                <li>環保意識：大量未分類的非一般垃圾堆積，未充分發揮資源再利用的潛力。</li>
+                <li>廢棄物管理：<strong>高焚化率</strong>可能暗示部分地區面臨<strong>廢棄物管理</strong>挑戰，南投、新竹縣、花蓮等地取消焚化爐興建，須依賴其他地區處理廢棄物。單一地區廢棄物不足，可能因當地產業關係而不願新增焚化廠。</li>
+                <li>資源回收：低回收率顯示<strong>缺乏</strong>有效回收系統。</li>
+                <li>環境影響：<strong>高焚化率</strong>導致空氣污染、二氧化碳排放等環境問題，危及附近土壤水質環境。</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="Summarize">
+        <p>1990年代，台灣環保署推動一縣市一焚化爐，引起地方抗議和垃圾量不足問題，導致計劃中止，一些縣市如南投、新竹縣、花蓮取消興建，雲林、台東則未啟用，因此並非所有縣市都擁有焚化廠，垃圾通常被運送至其他縣市或以掩埋法處理。
+        </p>
+        <!-- <p>2022年資源廢棄物量持續攀升，焚化廠無法應對，且許多現有焚化廠即將達到壽命，許多縣市考慮轉型為綠能電廠。整體而言，焚化廠解決不了廢棄物問題，需要更多回收和減量政策，隨袋徵收在雙北已顯示成效。</p> -->
+        <!-- <p><span class="star-icon">🎈</span>關於焚化廠本身也面臨一些相關議題：</p>
+        <ol>
+            <li>環境影響：焚化過程會產生煙氣和其他排放物，包括二氧化碳、氮氧化物和一氧化碳等有害物質。</li>
+            <li>資源浪費：焚化廠通常處理的是無法回收或處理的一般廢棄物，甚至是農業廢棄物跟廚餘，這也意味著某些本應可回收再利用的資源被焚燒而浪費。</li>
+            <li>社會議題：焚化廠的設置地點可能引發社會議題，特別是對於當地居民的生活和環境產生影響。</li>
+            <li>安全風險：焚化廠涉及高溫處理和有害氣體排放，若管理不當或操作不慎，可能對工作人員和周圍環境產生安全風險。</li>
+        </ol> -->
+        <div class="feelings">
+            <p>各縣市傳出重啟或興建焚化爐，但已經破千萬噸的廢棄物累積量、掩埋場堆放垃圾問題、焚化廠效能問題、跟環境及民生問題。真的是重啟或重建焚化廠就可以解決的嗎？</p>
+        </div>
+    </div>
+    <div><span class="star-icon">🌟</span>各縣市平均每人一日廢棄物產生量、一般廢棄物/資源回收/廚餘回收率
+    </div>
+    <div class="iframe-page">
+        <iframe src="http://34.80.175.10:5601/kibana_iframe/app/dashboards#/view/b4eb6120-3130-11ee-a364-3102a6bc5805?embed=true&_g=(filters%3A!())&show-time-filter=true&hide-filter-bar=true" height="1870" width="1300"></iframe>
+    </div>
+    <div class="Summarize">
+        <p>看金門縣為何平均一人產生垃圾較少，但廢棄物回收率如此之高？</p>
+        <p>自2017年起，金門縣實施垃圾進廠檢查以及破袋查核，因此回收率高達73%~74%，為全國之高。</p>
+        <!-- <p>金門縣政府的一般廢棄物中的廚餘含量為全國最低，以此分析圖來看金門縣每年回收的廚餘量高達9%；連江縣政府在廚餘方面的政策成效也非常顯著，每年回收的廚餘量高達14.72%
+        </p>
+        <p>相比其他縣市大量的廚餘可能都隨著一般廢棄物進入掩埋場及焚化廠，可謂資源的浪費</p> -->
+    </div>
+
+</div>
+<div> 
+    <!-- 回到首頁的按鈕，使用 Angular 的路由導航回首頁 -->
+    <button class="back-to-home" (click)="navigateToHome()">回<br>首頁</button>
+</div>
+
+<footer class="footer">
+    <div class="info">
+      <div class="info-message">
+        <span class="from"> 資料來源：</span>
+        <a href="https://www.twreporter.org/a/enterprise-wastes-black-market-insufficient-incinerators" target="_blank">焚化爐處理量能緊繃，成違法濫倒溫床</a>
+      </div>
+      <div class="info-message">
+        <a href="https://news.pts.org.tw/project/garbage-island-2020/" target="_blank">2020年台灣燒不盡的廢棄物困境
+        </a>
+      </div>
+      <div class="info-message">
+        <a href="https://ourisland.pts.org.tw/content/6716" target="_blank">區域合作的焚化爐政策為何失能？
+        </a>
+      </div>
+    </div>
+</footer>

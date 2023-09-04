@@ -1,0 +1,18 @@
+ProviderID,OperatorID,OperatorName,OperatorPhone,OperatorEmail,OperatorUrl,OperatorCode,AuthorityCode,OperatorNo,UpdateTime
+006,1,"{'Zh_tw': '桃園客運', 'En': 'Taoyuan Bus Co., Ltd.'}",0800-053808,tybus＠ms18.hinet.net,http://www.tybus.com.tw,TaoyuanBus,TAO,1002,2023-07-13T22:47:24+08:00
+006,10,{'Zh_tw': '捷順交通'},03-3873645,,http://www.jasunbus.com,JasunBus,TAO,1103,2023-07-13T22:47:24+08:00
+006,2,"{'Zh_tw': '中壢客運', 'En': 'Chungli Bus Co., Ltd.'}",0800-255722,cl.bus@msa.hinet.net,http://www.chunglibus.com.tw,ChungliBus,TAO,0404,2023-07-13T22:47:24+08:00
+006,23,"{'Zh_tw': '台灣真好小客車租賃', 'En': 'Nice Taiwan car rental corporation'}",03-4516459,,TAO,0509,2023-07-13T22:47:24+08:00
+006,24,{'Zh_tw': '勁揚通運'},0800-016161,,TAO,0915,2023-07-13T22:47:24+08:00
+006,3,{'Zh_tw': '指南客運'},02-28092111,info@csgroup-bus.com.tw,http://www.csgroup-bus.com.tw,ZhinanBus,TAO,0907,2023-07-13T22:47:24+08:00
+006,4,"{'Zh_tw': '統聯客運', 'En': 'United Highway Bus Co., Ltd.'}",0800-676676,http://www.ubus.com.tw,http://ordertickets.ubus.com.tw/,0800-241560,UnitedHighwayBus,TAO,1201,2023-07-13T22:47:24+08:00
+006,5,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",0800-035800,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,TAO,1303,2023-07-13T22:47:24+08:00
+006,6,"{'Zh_tw': '亞通客運', 'En': 'Yatung Bus Co., Ltd.'}",03-3838432,orange.bus@msa.hinet.net,http://www.orangebus.com.tw,YatungBus,TAO,0702,2023-07-13T22:47:24+08:00
+006,8,"{'Zh_tw': '金台通運', 'En': 'Jintai Transport Co., Ltd.'}",03-5538321,jstour@ms48.hinet,JintaiTransport,TAO,0806,2023-07-13T22:47:24+08:00
+006,9,"{'Zh_tw': '三重客運', 'En': 'San Chung Bus Co., Ltd.'}",0800-090-607,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,TAO,0301,2023-07-13T22:47:24+08:00
+006,925,{'Zh_tw': '亞盛通運'},03-3838432,,TAO,0704,2023-07-13T22:47:24+08:00
+006,XB_16176,{'Zh_tw': '臺北客運-16176'},(02)2982-2886、0800-003-307,,http://www.tpebus.com.tw,TaipeiBus,TAO,1407,2023-07-13T22:47:24+08:00
+006,XB_16177,{'Zh_tw': '首都客運-16177'},0800-000-866,,http://www.capital-bus.com.tw,CapitalBus,TAO,0913,2023-07-13T22:47:24+08:00
+006,XB_16179,{'Zh_tw': '三重客運.'},0800-090-607,scbus@sanchung-bus.com.tw,http://www.sanchung-bus.com.tw,SanChungBus,TAO,0301,2023-07-13T22:47:24+08:00
+006,XB_16182,{'Zh_tw': '大都會客運-16182'},0800-053434,service11@mtcbus.com.tw,http://www.mtcbus.com.tw,MetropolitanBus,TAO,0303,2023-07-13T22:47:24+08:00
+006,XB_16278,{'Zh_tw': '桃園客運-16278'},(03)375-3711、0800-053808,tybus＠ms18.hinet.net,http://www.tybus.com.tw,TaoyuanBus,TAO,1002,2023-07-13T22:47:24+08:00

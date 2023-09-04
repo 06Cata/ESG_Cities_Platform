@@ -1,0 +1,91 @@
+<div class="title-container">
+    <div class="title">各縣市工廠、煙囪環境監控與汙染管制</div>
+</div>
+
+<div class="wrapper">
+  <div class="container">
+    <p><span class="star-icon">🌟</span>目前各縣市有申報各列管物的事業類別分析圖</p>
+    <div class="btn-container">
+      <div class="btn-row" *ngFor="let city of cities; let i = index">
+        <button class="county" (click)="setSelectedCity(city)">{{ city.name }}</button>
+      </div>
+    </div>
+    <div class="iframe-page" *ngIf="selectedCity">
+      <h3>{{ selectedCity.name }}</h3>
+      <iframe [src]="srcUrl" height="2900" width="1300"></iframe>
+    </div>
+    <div class="illustrate">
+      <img src="../../assets/EMS介紹.png" alt="EMS介紹">
+      <p>廢棄物列管名單占最大宗，根據法規「廢棄物清理法」定義。事業廢棄物：指事業活動產生，非屬其員工生活產生之廢棄物，包括有害事業廢棄物及一般事業廢棄物。</p>
+      <p>有害事業廢棄物：由事業所產生具有毒性、危險性，其濃度或數量，足以影響人體健康或污染環境之廢棄物。
+        一般事業廢棄物：有害事業廢棄物以外之廢棄物。</p>
+    </div>
+  </div>
+  <div class="container">
+    <p><span class="star-icon">🌟</span>台灣工廠煙囪連續自動監測設施總覽圖</p>
+    <div class="iframe-page">
+      <iframe src="http://34.80.175.10:5601/kibana_iframe/app/dashboards#/view/1fc1c870-3732-11ee-a364-3102a6bc5805?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3A\'2023-08-20T16%3A00%3A00.000Z\'%2Cto%3A\'2023-08-21T16%3A00%3A00.000Z\'))&show-time-filter=true" height="790" width="1300"></iframe>
+    </div>
+    <p><span class="star-icon">🌟</span>各縣市工廠煙囪連續自動監測設施</p>
+      <div class="btn-container">
+        <div class="btn-row" *ngFor="let factory of factories; let i = index">
+          <button class="county" (click)="setselectedFactory(factory)">{{ factory.name }}</button>
+        </div>
+      </div>
+      <div class="iframe-page" *ngIf="selectedFactory">
+        <h3>{{ selectedFactory.name }}</h3>
+        <iframe [src]="SrcUrl" height="1330" width="1300"></iframe>
+      </div> 
+      <div class="CEMS">
+        <img src="../../assets/CEMS監測介紹.png" alt="CEMS監測介紹">
+        <div class="illustrate">
+          <!-- <p>為有效管理大型煙囪之空氣污染物排放狀況，環保署自民國82年起，共公告5批次應設置連續自動監測設施(Continuous Emission Monitoring Systems, CEMS)之固定污染源，並要求自91年2月起分批次與環保局完成連線作業。</p> -->
+          <p>連續自動監測設施(CEMS)：可連續自動採樣、分析、記錄與計算固定污染源排放管道空氣污染物之相關設施。約可掌握全國固定污染源7成以上硫氧化物及氮氧化物排放量。</p>
+          <p>這裡我們整理了公開資料中關於各縣市工廠煙囪排放氣體中「粒狀污染物不透光率」6分鐘監測即時資料。可以隨時監看是否有排放超標情形。</p>
+          <p>另外環保署也建置CEMS監測數據逾限示警系統與數據管理平台，可即時通知各地方環保局其轄內公私場所CEMS監測數據逾限情形與相關數據檢核資料。</p>
+        </div>
+      </div>
+    <p><span class="star-icon">🌟</span>補充 : 各縣市也為了因應CEMS政策做出即時監控網頁可以供大家參考 :
+    </p>
+      <ol> 
+        <li><a href="http://61.221.35.151/" target="_blank">臺北市政府環境保護局CEMS公開資訊</a>。</li>
+          <li><a href="https://aqicn.org/city/taiwan/yilan/hk/" target="_blank">宜蘭空氣污染：實時空氣質量指數（AQI）</a>。</li>
+          <li><a href="http://60.248.81.223/" target="_blank">新竹縣政府環境保護局CEMS公開資訊</a>。</li>
+          <li><a href="https://cems.epb.taichung.gov.tw/program/menu/maintainhomepp2.asp" target="_blank">台中市固定汙染源連線監測系統</a>。</li>
+          <li><a href="https://www.ylepb.net/epb/em4/" target="_blank">雲林縣六輕本日排放清單</a>。</li>
+          <li><a href="https://aqmc.kcg.gov.tw/pubCems/CEMSData.aspx" target="_blank">高雄市空氣品質管理中心</a>。</li>
+          <li><a href="https://www.phepb.gov.tw/home.jsp?id=94" target="_blank">澎湖縣政府環境保護局</a>。</li>
+      </ol>
+  </div>
+</div>
+
+<div> 
+    <!-- 回到首頁的按鈕，使用 Angular 的路由導航回首頁 -->
+    <button class="back-to-home" (click)="navigateToHome()">回<br>首頁</button>
+</div>
+
+
+<footer class="footer">
+    <div class="info">
+      <div class="info-message">
+        <span class="from"> 資料來源：</span>
+        <a href="https://prtr.epa.gov.tw/index.html" target="_blank">列管污染源資料 (含裁處資訊) 查詢系統</a>
+      </div>
+      <div class="info-message">
+        <a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0050001&kw=%e5%bb%a2%e6%a3%84%e7%89%a9%e6%b8%85%e7%90%86%e6%b3%95" target="_blank">全國法規資料庫
+        </a>
+      </div>
+      <div class="info-message">
+        <a href="https://ems.epa.gov.tw/Anonymous/EMSNewsMore.aspx" target="_blank">環境保護許可管理資訊系統
+        </a>
+      </div>
+      <div class="info-message">
+        <a href="https://air.epa.gov.tw/EnvTopics/StationarySource_9.aspx" target="_blank">CEMS政策推動
+        </a>
+      </div>
+      <div class="info-message">
+        <a href="http://nehrc.nhri.org.tw/toxic/ref/%E6%87%B6%E4%BA%BA%E5%8C%85_v3-rev2.pdf" target="_blank">空汙懶人包
+        </a>
+      </div>
+    </div>
+</footer>

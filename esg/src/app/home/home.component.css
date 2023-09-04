@@ -1,0 +1,460 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+
+
+/* 頁首樣式 */
+
+header {
+    flex-direction: column; /* 讓內容垂直排列 */
+    margin:2vw;
+    position: relative; /* 讓 header 成為相對定位的容器 */
+}
+
+#navbar {
+  background-color: #093916;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  height: 40px;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin:0 40px 0 0;
+  justify-content: end;
+}
+
+.nav-list li {
+  margin-right: 20px;
+  margin-top: 16px;
+}
+
+.nav-list li:last-child {
+  margin-right: 0;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  transition: color 0.3s;
+  font-size: 1.5vw;
+}
+
+.nav-list a:hover {
+  color: #ff9d00;
+}
+
+
+.head_title {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    flex-direction: column; /* 垂直排列 */
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-image: url('../../assets/home-img.png');
+    background-size: contain;
+    background-position: center; /* 將背景圖片置中 */
+    background-repeat: no-repeat; /* 不重複背景圖片 */
+    transform: scale(.8);
+}
+
+.title {
+    position: relative;
+    margin-top: 2vw; /* 距離上方的間距 */
+    margin-bottom: 0;
+    width: 30vw;
+    height: 30vw;
+}
+
+.welcome-font{
+    position: relative;
+    margin-top: 7vw;
+    background-color: aliceblue;
+    border: 0.1vw solid #ccc;
+    border-radius: 40px;
+    padding: 0.5vw 0.5vw;
+    margin-bottom: 4vw;
+}
+
+.welcome{
+    color: #e26776;
+    font-family: 'cwTeXYen', serif;
+    font-size: 2vw;
+}
+
+.illustrate{
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #004b84;
+    font-family: 'Noto Sans TC', serif;
+    font-size: 4vw;
+    align-items: center;
+}
+
+/* 主題樣式 */
+
+main {
+    background-color: rgb(248, 248, 248); /* 設定背景顏色並調整透明度 */
+    padding: 20px; 
+    box-sizing: border-box; /* 確保 padding 不會影響容器寬度 */
+    display: block;
+    flex-wrap: wrap;
+    flex-direction: column; /* 讓內容垂直排列 */
+    /* align-items: center;  *//* 水平置中 */
+    justify-content: space-between;
+  }
+  
+  .container{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    box-sizing: border-box; /* 確保 padding 不會影響容器寬度 */
+  }
+
+  /* 設置 .about-esg 容器的樣式 */
+.about-esg {
+  flex: 1; /* 讓它佔據左半邊 */
+  max-width: 50%; /* 確保最大寬度不超過左半邊 */
+  box-sizing: border-box; /* 確保內邊距和邊框不增加元素的尺寸 */
+  padding-right: 20px;
+  margin-top: 10px;
+  
+}
+
+/* 設置 .esgimg 圖片的樣式 */
+.esgimg {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* 加入陰影效果 */
+}
+
+@media screen and (max-width: 768px) {
+  .main-container {
+    flex-direction: column;
+  }
+
+  .about-esg,
+  .main-content {
+    max-width: 100%; /* 在螢幕縮小時，讓兩個部分佔滿整個寬度 */
+  }
+}
+
+.main-content{
+  display: flex;
+  flex: 1; 
+  height: auto; /* 設定容器高度 */
+  max-width: 50%;
+  box-sizing: border-box; 
+  flex-direction: column; 
+}
+
+.main-title-container {
+  padding: 0 20px 0 20px;
+  flex:1;
+}
+
+.main-title {
+  font-family: 'Noto Sans TC', sans-serif; 
+  line-height: 1.6; 
+  color: #105503; 
+  text-align: left;
+  /* font-weight: bold; */
+  font-size: 22px;
+  margin-top: 5px;
+
+.leaf-icon {
+  margin-right: 5px; 
+}
+
+  
+  ul {
+    list-style-type: none; 
+    padding-left: 0; 
+  }
+
+  li {
+    margin: 5px 0; 
+    padding-left: 20px; 
+    position: relative; 
+  }
+
+  li:before {
+    content: '\2022'; 
+    position: absolute;
+    left: 0;
+  }
+  } 
+
+  .main-title h2 {
+    font-weight: bold;
+    margin-top: 0;
+    font-size: 3vw;
+  }
+
+
+ .main-list {
+    /* background-color: rgba(188, 222, 233, 0.8); */
+    display: grid;
+    justify-content: center;
+    border-radius: 40px; /* 圓角半徑 */
+    /* flex-wrap: wrap;  */
+    padding: 20px; /* 加入 padding 來調整容器內容與邊框的距離 */
+    gap: 20px; 
+    box-sizing: border-box; /* 確保 padding 不會影響容器寬度 */
+    flex: 1;
+    max-width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+ }  
+
+ @media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column; /* 在螢幕小於 768px 時，將容器改為垂直堆疊排列 */
+  }
+
+  .about-esg,
+  .main-content {
+    max-width: 100%; /* 在螢幕小於 768px 時，將兩個元素的寬度設為 100% */
+    height: auto; /* 自動適應內容高度 */
+  }
+
+  .main-title {
+    font-size: 14px; 
+  }
+
+  /* 將容器內的子元素縮小 */
+  .main-list  {
+    transform: scale(0.8); /* 根據需要調整縮放比例 */
+    transition: transform 0.3s ease; /* 添加過渡效果 */ 
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .main-title {
+    font-size: 14px; 
+  }
+
+  .main-list  {
+    transform: scale(0.8); /* 根據需要調整縮放比例 */
+    transition: transform 0.3s ease; /* 添加過渡效果 */ 
+  }
+}
+
+/* 介紹團隊 */
+.interview {
+  background: linear-gradient(360deg, rgb(176, 219, 250), rgb(255, 255, 255));
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.picturecontainer,
+.think {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.picturecontainer {
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap:2vw;
+  padding: 20px;
+}
+
+.people {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  width: 100%;
+  position: relative;
+  font-family: 'Noto Sans TC', sans-serif; 
+  line-height: 1.5; 
+  color: #105503; 
+  text-align: left;
+  font-size: 3vw;
+  margin-top: 20px;
+
+  .people-icon {
+    margin-right: 5px; 
+  }
+}
+
+.picture-with-name {
+  text-align: center;
+  position: relative; 
+}
+
+.name {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #2e762e;
+  font-weight: bold;
+  opacity: 0.5;
+  transition: opacity 0.3s;
+}
+
+.name a {
+text-decoration: none;
+color: #2e762e;
+}
+
+.picture-with-name:hover .name {
+  opacity: 1;
+}
+
+.name a:hover {
+  color: #b32a00;
+  }
+
+.picture {
+  width: 160px;
+  height: 160px;
+  background-color: #ddd;
+  border-radius: 50%;
+}
+
+.picture img{
+  width: 160px;
+  height: 160px;
+  background-color: #ddd;
+  border-radius: 50%;
+}
+
+
+.think {
+  font-family: 'Noto Sans TC', sans-serif; 
+  line-height: 1.5; 
+  color: #105503; 
+  text-align: left;
+  font-size: 26px;
+  margin-top: 20px;
+
+  .idea-icon {
+    margin-right: 5px; 
+  }
+}
+
+.thinktitle  {
+  margin-top: 0;
+  font-size: 3vw;
+  font-weight: bold;
+  margin-bottom:50px ;
+}
+
+
+@media screen and (max-width: 768px) {
+  .interview {
+    flex-direction: column; /* 在螢幕小於 768px 時，將容器改為垂直堆疊排列 */
+  }
+
+  .picturecontainer,
+  .think {
+    max-width: 100%; /* 在螢幕小於 768px 時，將兩個元素的寬度設為 100% */
+    height: auto; /* 自動適應內容高度 */
+  }
+
+  .think {
+    font-size: 14px; 
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .think {
+    font-size: 14px; 
+  }
+
+}
+
+
+/* 頁尾樣式 */
+
+footer {
+    background-color: #484f94;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .earth-img {
+    margin-bottom: 20px;
+  }
+  
+
+  .earth {
+    width: 16vw;
+    height: 14vw;
+  }
+  
+  .option {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50vw;
+  }
+  
+.info,.email {
+  flex: 1; /* 使兩個容器平均佔用可用空間 */
+  padding: 10px; /* 可根據需要調整內邊距 */
+}
+
+  .option span {
+    font-size: 18px;
+    color: #e26776;
+    white-space: nowrap; /* 不換行 */
+  }
+  
+  .option p {
+    font-size: 14px;
+    line-height: 1.6;
+    white-space: nowrap; /* 不換行 */
+  }
+
+/* 響應式設置 */
+/* 在螢幕寬度小於 768px 時，將 .info 與 .email 垂直排列 */
+@media screen and (max-width: 768px) {
+  .option {
+    flex-direction: column;
+    text-align: center; /* 文本置中對齊 */
+    width: 100%;
+  }
+  .option span {
+    font-size: 4px;
+    color: #e26776;
+  }
+
+  .option p {
+    font-size: 3px;
+    line-height: 1.6;
+  }
+}
+
+
+
+

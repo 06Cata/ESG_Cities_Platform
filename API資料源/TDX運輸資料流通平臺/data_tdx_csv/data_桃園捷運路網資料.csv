@@ -1,0 +1,2 @@
+NetworkID,NetworkName,OperatorCode,OperatorName,NetworkMapURL,Lines,SrcUpdateTime,UpdateTime,VersionID
+TYMC-Network,"{'Zh_tw': '機場捷運系統路網', 'En': 'Taoyuan Metro Network'}",TYMC,"{'Zh_tw': '桃園大眾捷運股份有限公司', 'En': 'Taoyuan Metro Corporation'}",https://www.tymetro.com.tw/tymetro-new/tw/_images/travel-guide/road_02-1_big.jpg,"[{'LineNo': 'A', 'LineID': 'A'}]",2018-10-01T14:58:20+08:00,2018-10-08T10:00:00+08:00,1

@@ -1,0 +1,3 @@
+NetworkID,NetworkName,OperatorCode,OperatorName,NetworkMapURL,Lines,SrcUpdateTime,UpdateTime,VersionID
+KRTC-Network,"{'Zh_tw': '高雄捷運系統路網', 'En': 'Kaohsiung Metro Network'}",KRTC,"{'Zh_tw': '高雄捷運股份有限公司', 'En': 'Kaohsiung Rapid Transit Corporation'}",https://www.krtc.com.tw/Content/userfiles/images/guide-map.jpg,"[{'LineNo': 'O', 'LineID': 'O'}, {'LineNo': 'R', 'LineID': 'R'}]",2017-05-26T00:00:00+08:00,2021-01-18T10:44:35+08:00,2
+KRTC-Network,"{'Zh_tw': '高雄捷運系統路網', 'En': 'Kaohsiung Metro Network'}",KRTC,"{'Zh_tw': '高雄捷運股份有限公司', 'En': 'Kaohsiung Rapid Transit Corporation'}",http://www.krtc.com.tw/images/newInnerSite/guide/guide_routemap.png,"[{'LineNo': 'O', 'LineID': 'O'}, {'LineNo': 'R', 'LineID': 'R'}]",2017-05-26T00:00:00+08:00,2021-01-18T10:44:35+08:00,2

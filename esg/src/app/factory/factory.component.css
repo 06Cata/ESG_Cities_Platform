@@ -1,0 +1,337 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
+/* 標題 */
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff; /* 字體顏色 */
+  background-color: rgba(48, 47, 49, 0.7); 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.title::before {
+  content: "🌍"; /* 這裡使用了一個植物的表情符號作為示例，你可以換成你喜歡的其他圖示 */
+  margin-right: 10px;
+}
+
+
+.title-container {
+  display: flex;
+  margin-bottom: 30px;
+  margin-left: 20px; /* 這裡調整左邊的間距 */
+}
+
+
+@media screen and (max-width: 768px) {
+  .title{
+    font-size:28px;
+  }
+  .title-container {
+    max-width: 80%;
+  }
+}
+
+
+@media screen and (max-width: 576px) {
+  .title{
+    font-size:24px;
+  }
+  .title-container {
+    max-width: 60%;
+  }
+}
+
+
+/* 主要內容畫面 */
+
+.wrapper {
+  background-color: #ffffff; 
+  border-radius: 10px; 
+  padding: 20px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 加入陰影效果，讓容器有立體感 */
+  margin: 20px;
+  font-family: 'Noto Sans TC', sans-serif;
+  line-height: 1.6;
+}
+
+/* .EMS {
+  color: #064b23;
+  background-color: #fff;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 1.8vw;
+  font-weight: bold;
+}
+
+.EMS img{
+  max-width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
+.EMS p {
+  margin-bottom: 10px;
+}
+
+
+.EMS p:first-of-type {
+  text-indent: 2em;
+}
+
+
+.EMS blockquote p {
+  margin: 0;
+}
+
+
+.EMS p, .EMS blockquote {
+  text-align: justify;
+}
+
+
+.EMS p + p, .EMS blockquote + p {
+  margin-top: 15px;
+} */
+
+
+.container {
+  color: #5a9638;
+  background-color: #fff;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 1.2vw;
+  font-weight: bold;
+}
+
+.btn-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom:20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-row {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+
+.county {
+  background-color: #0e907c;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-size: 1.5vw;
+}
+
+.county:hover {
+  background-color: #c43612;
+}
+
+.iframe-page {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  margin: 0 auto;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* 媒體查詢 */
+@media (max-width: 600px) {
+  /* 視窗寬度小於600px時，設定container的最大寬度 */
+
+  .iframe-page iframe {
+    width: 100%; 
+    height: 100%; 
+  }
+}
+
+h3 {
+  display: inline-block;
+  background-color: #8bd648;
+  color: #fff;
+  padding: 5px 15px;
+  border-radius: 5px;
+  margin: 20px 0 0 0;
+}
+
+iframe{
+  max-width: 100%;
+}
+
+.illustrate {
+  margin-top: 20px;
+  background-color: #f7f7f7;
+  color: #064b23;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.illustrate p {
+  margin-bottom: 10px;
+}
+
+.illustrate ol {
+  color: #328231;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 1vw;
+}
+
+.illustrate li {
+  margin-bottom: 5px;
+}
+
+
+.illustrate img {
+  display: block; 
+  margin: 5px auto;
+  max-width: 85%; 
+  height: auto;
+}
+
+/* 煙囪監測 */
+.CEMS {
+  color: #064b23;
+}
+
+.CEMS img{
+  max-width: 85%;
+  display: block;
+  margin: 0 auto;
+}
+
+
+/* 調整段落的首行縮進 */
+.CEMS p:first-of-type {
+  text-indent: 2em;
+}
+
+
+/* 調整引用段落中的文字 */
+.CEMS blockquote p {
+  margin: 0;
+}
+
+/* 調整對齊 */
+.CEMS p, .EMS blockquote {
+  text-align: justify;
+}
+
+/* 添加間距以隔開段落 */
+.CEMS p + p, .EMS blockquote + p {
+  margin-top: 15px;
+}
+
+/* 最後的補充 */
+.star-icon{
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.container a{
+  text-decoration: none;
+  color: #064b23;
+}
+
+.container a:hover {
+  color: #b32a00;
+}
+
+
+
+/* 回到首頁標記 */
+.back-to-home {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+  font-size: 18px;
+  line-height: 1.2;
+  font-family: 'Noto Sans TC', sans-serif;
+  }
+  
+  /* .back-to-home:before {
+    content: "\2190";
+  } */
+    
+    /* 按鈕懸停效果 */
+    button:hover {
+      background-color: #45a049; /* 懸停時的背景顏色 */
+    }
+    
+    /* 按鈕點擊效果 */
+    button:active {
+      background-color: #207c23; /* 點擊時的背景顏色 */
+    }
+
+    /* 頁尾樣式 */
+.footer {
+  margin-top: 20px;
+  background-color: #fbf9ff;
+  padding: 5px;
+  text-align: center;
+}
+
+.info {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+    
+.info-message {
+  margin: 10px;
+  font-size: 18px;
+  color: #1f4b06;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.from::before {
+  content: "🌍"; 
+  margin-right: 10px;
+}
+
+.info-message a {
+  color: #064b23;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+.info-message a:hover {
+  color: #b32a00;
+}
+
+/* 響應式設計 */
+@media screen and (max-width: 768px) {
+
+  .info {
+    flex-direction: column;
+  }
+
+}

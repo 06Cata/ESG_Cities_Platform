@@ -1,0 +1,5 @@
+ProviderID,OperatorID,OperatorName,OperatorPhone,OperatorEmail,OperatorUrl,OperatorCode,AuthorityCode,OperatorNo,UpdateTime
+010,13,"{'Zh_tw': '新竹客運', 'En': 'Hsinchu Bus Co., Ltd.'}",(03)522-5151~8,business@hcbus.com.tw,http://www.hcbus.com.tw,HsinchuBus,HSQ,1303,2023-07-13T07:38:39+08:00
+010,18,"{'Zh_tw': '科技之星交通', 'En': 'KJ-Star Bus Co., Ltd.'}",(03)531-6632,http://www.yosemite-bus.com.tw,KJ-StarBus,HSQ,0909,2023-07-13T07:38:39+08:00
+010,67,"{'Zh_tw': '金牌客運', 'En': 'Champion Bus Co., Ltd.'}",(03)553-8686,http://www.gobus.com.tw,ChampionBus,HSQ,0808,2023-07-13T07:38:39+08:00
+010,73,"{'Zh_tw': '尖石鄉公所', 'En': 'Jianshih Township Office'}",(03)584-1001,http://www.hccst.gov.tw,JianshihTownshipOffice,HSQ,0603,2023-07-13T07:38:39+08:00

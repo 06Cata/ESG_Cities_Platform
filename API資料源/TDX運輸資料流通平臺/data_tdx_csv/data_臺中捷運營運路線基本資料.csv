@@ -1,0 +1,3 @@
+RouteID,OperatorCode,RouteName,RailRouteType,LineNo,LineID,StartStationID,StartStationName,EndStationID,EndStationName,TravelTime,RouteLength,SrcUpdateTime,UpdateTime,VersionID
+G-1,TMRT,"{'Zh_tw': '烏日文心北屯線', 'En': 'Wuriwenxin  Beitun Line'}",33,1,G,103a,"{'Zh_tw': '北屯總站', 'En': 'Beitun Main Station'}",119,"{'Zh_tw': '高鐵臺中站', 'En': 'HSR Taichung Station'}",70.0,16.7,2021-07-05T14:16:29+08:00,2023-06-24T09:38:00+08:00,418
+G-1,TMRT,"{'Zh_tw': '烏日文心北屯線', 'En': 'Wuriwenxin  Beitun Line'}",33,1,G,119,"{'Zh_tw': '高鐵臺中站', 'En': 'HSR Taichung Station'}",103a,"{'Zh_tw': '北屯總站', 'En': 'Beitun Main Station'}",70.0,16.7,2021-07-05T14:16:29+08:00,2023-06-24T09:38:00+08:00,418

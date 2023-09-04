@@ -1,0 +1,2 @@
+NetworkID,NetworkName,OperatorCode,OperatorName,NetworkMapURL,Lines,SrcUpdateTime,UpdateTime,VersionID
+TRTC-Network,"{'Zh_tw': '臺北捷運系統路網', 'En': 'Taipei Metro Network'}",TRTC,"{'Zh_tw': '臺北大眾捷運股份有限公司', 'En': 'Taipei Rapid Transit Corporation'}",https://web.metro.taipei/img/all/metrotaipeimap.jpg,"[{'LineNo': 'R', 'LineID': 'R'}, {'LineNo': 'Y', 'LineID': 'Y'}, {'LineNo': 'BL', 'LineID': 'BL'}, {'LineNo': 'BR', 'LineID': 'BR'}, {'LineNo': 'O', 'LineID': 'O'}, {'LineNo': 'G', 'LineID': 'G'}]",2018-01-10T13:00:00+08:00,2018-07-25T10:00:00+08:00,1

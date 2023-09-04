@@ -1,0 +1,2 @@
+NetworkID,NetworkName,OperatorCode,OperatorName,NetworkMapURL,Lines,SrcUpdateTime,UpdateTime,VersionID
+MG-Network,"{'Zh_tw': '貓空纜車路網', 'En': 'Maokong Gondola Network'}",TRTC,"{'Zh_tw': '臺北大眾捷運股份有限公司', 'En': 'Taipei Rapid Transit Corporation'}",https://english.gondola.taipei/cp.aspx?n=D425FEE9BF394187,"[{'LineNo': 'MK', 'LineID': 'MK'}]",2018-01-10T13:00:00+08:00,2020-06-22T14:00:00+08:00,1

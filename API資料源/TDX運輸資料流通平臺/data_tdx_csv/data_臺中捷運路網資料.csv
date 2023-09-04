@@ -1,0 +1,2 @@
+NetworkID,NetworkName,OperatorCode,OperatorName,NetworkMapURL,Lines,SrcUpdateTime,UpdateTime,VersionID
+TMRT-Network,"{'Zh_tw': '臺中捷運系統路網', 'En': 'Taichung Metro Network'}",TMRT,"{'Zh_tw': '臺中捷運股份有限公司', 'En': 'Taichung Mass Rapid Transit Corporation'}",https://www.tmrt.com.tw/static/img/metro-life/map/map.jpg,"[{'LineNo': '1', 'LineID': 'G'}]",2020-11-25T00:00:00+08:00,2023-06-24T08:38:04+08:00,12

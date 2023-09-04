@@ -1,0 +1,5 @@
+RouteID,OperatorCode,RouteName,RailRouteType,LineNo,LineID,StartStationID,StartStationName,EndStationID,EndStationName,TravelTime,RouteLength,SrcUpdateTime,UpdateTime,VersionID
+O,KRTC,"{'Zh_tw': '橘線', 'En': 'Orange Line'}",33,O,O,O1,"{'Zh_tw': '西子灣', 'En': 'Sizihwan'}",OT1,"{'Zh_tw': '大寮', 'En': 'Daliao'}",23.0,13.12,2016-11-23T10:33:49+08:00,2017-04-25T10:42:38+08:00,1
+O,KRTC,"{'Zh_tw': '橘線', 'En': 'Orange Line'}",33,O,O,OT1,"{'Zh_tw': '大寮', 'En': 'Daliao'}",O1,"{'Zh_tw': '西子灣', 'En': 'Sizihwan'}",23.0,13.12,2016-11-23T10:33:49+08:00,2017-04-25T10:42:38+08:00,1
+R,KRTC,"{'Zh_tw': '紅線', 'En': 'Red Line'}",33,R,R,R24,"{'Zh_tw': '南岡山', 'En': 'Gangshan South'}",R3,"{'Zh_tw': '小港', 'En': 'Siaogang'}",48.0,28.81,2016-11-23T10:33:49+08:00,2017-04-25T10:42:38+08:00,1
+R,KRTC,"{'Zh_tw': '紅線', 'En': 'Red Line'}",33,R,R,R3,"{'Zh_tw': '小港', 'En': 'Siaogang'}",R24,"{'Zh_tw': '南岡山', 'En': 'Gangshan South'}",48.0,28.81,2016-11-23T10:33:49+08:00,2017-04-25T10:42:38+08:00,1

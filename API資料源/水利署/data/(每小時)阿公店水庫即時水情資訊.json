@@ -1,0 +1,224 @@
+{
+    "totalPage": 1,
+    "totalDataSize": 24,
+    "page": 1,
+    "size": 1000,
+    "responseData": [
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T14:00:00",
+            "EffectiveWaterStorageCapacity": "264",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.62"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T15:00:00",
+            "EffectiveWaterStorageCapacity": "266",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.63"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T16:00:00",
+            "EffectiveWaterStorageCapacity": "268",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.64"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T17:00:00",
+            "EffectiveWaterStorageCapacity": "266",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.63"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T18:00:00",
+            "EffectiveWaterStorageCapacity": "268",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.64"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T19:00:00",
+            "EffectiveWaterStorageCapacity": "268",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.64"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T20:00:00",
+            "EffectiveWaterStorageCapacity": "268",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.64"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T21:00:00",
+            "EffectiveWaterStorageCapacity": "269",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.65"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T22:00:00",
+            "EffectiveWaterStorageCapacity": "269",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.65"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-12T23:00:00",
+            "EffectiveWaterStorageCapacity": "269",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.65"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "Date": "2023-07-13T00:00:00",
+            "EffectiveWaterStorageCapacity": "271",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.66"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T01:00:00",
+            "EffectiveWaterStorageCapacity": "271",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.66"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T02:00:00",
+            "EffectiveWaterStorageCapacity": "273",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.67"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T03:00:00",
+            "EffectiveWaterStorageCapacity": "273",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.67"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T04:00:00",
+            "EffectiveWaterStorageCapacity": "273",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.67"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T05:00:00",
+            "EffectiveWaterStorageCapacity": "275",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T06:00:00",
+            "EffectiveWaterStorageCapacity": "275",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.68"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T07:00:00",
+            "EffectiveWaterStorageCapacity": "276",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T08:00:00",
+            "EffectiveWaterStorageCapacity": "276",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T09:00:00",
+            "EffectiveWaterStorageCapacity": "276",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T10:00:00",
+            "EffectiveWaterStorageCapacity": "276",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.69"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T11:00:00",
+            "EffectiveWaterStorageCapacity": "278",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.7"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T12:00:00",
+            "EffectiveWaterStorageCapacity": "278",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.7"
+        },
+        {
+            "AccumulatedRainfall": "0",
+            "Date": "2023-07-13T13:00:00",
+            "EffectiveWaterStorageCapacity": "280",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "37",
+            "ReservoirName": "阿公店水庫",
+            "WaterLevel": "31.71"
+        }
+    ]
+}

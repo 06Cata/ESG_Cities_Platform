@@ -1,0 +1,11 @@
+RoadName,CityList
+國1,"[{'CityName': '臺北市', 'City': 'Taipei'}, {'CityName': '臺中市', 'City': 'Taichung'}, {'CityName': '基隆市', 'City': 'Keelung'}, {'CityName': '臺南市', 'City': 'Tainan'}, {'CityName': '高雄市', 'City': 'Kaohsiung'}, {'CityName': '新北市', 'City': 'NewTaipei'}, {'CityName': '桃園市', 'City': 'Taoyuan'}, {'CityName': '嘉義市', 'City': 'Chiayi'}, {'CityName': '新竹縣', 'City': 'HsinchuCounty'}, {'CityName': '苗栗縣', 'City': 'MiaoliCounty'}, {'CityName': '彰化縣', 'City': 'ChanghuaCounty'}, {'CityName': '新竹市', 'City': 'Hsinchu'}, {'CityName': '雲林縣', 'City': 'YunlinCounty'}, {'CityName': '嘉義縣', 'City': 'ChiayiCounty'}]"
+國10,"[{'CityName': '高雄市', 'City': 'Kaohsiung'}, {'CityName': '屏東縣', 'City': 'PingtungCounty'}]"
+國1高架,"[{'CityName': '臺北市', 'City': 'Taipei'}, {'CityName': '新北市', 'City': 'NewTaipei'}, {'CityName': '桃園市', 'City': 'Taoyuan'}]"
+國2,"[{'CityName': '桃園市', 'City': 'Taoyuan'}]"
+國3,"[{'CityName': '臺北市', 'City': 'Taipei'}, {'CityName': '臺中市', 'City': 'Taichung'}, {'CityName': '基隆市', 'City': 'Keelung'}, {'CityName': '臺南市', 'City': 'Tainan'}, {'CityName': '高雄市', 'City': 'Kaohsiung'}, {'CityName': '新北市', 'City': 'NewTaipei'}, {'CityName': '桃園市', 'City': 'Taoyuan'}, {'CityName': '嘉義市', 'City': 'Chiayi'}, {'CityName': '新竹縣', 'City': 'HsinchuCounty'}, {'CityName': '苗栗縣', 'City': 'MiaoliCounty'}, {'CityName': '南投縣', 'City': 'NantouCounty'}, {'CityName': '彰化縣', 'City': 'ChanghuaCounty'}, {'CityName': '新竹市', 'City': 'Hsinchu'}, {'CityName': '雲林縣', 'City': 'YunlinCounty'}, {'CityName': '嘉義縣', 'City': 'ChiayiCounty'}, {'CityName': '屏東縣', 'City': 'PingtungCounty'}]"
+國3甲,"[{'CityName': '臺北市', 'City': 'Taipei'}]"
+國4,"[{'CityName': '臺中市', 'City': 'Taichung'}]"
+國5,"[{'CityName': '臺北市', 'City': 'Taipei'}, {'CityName': '新北市', 'City': 'NewTaipei'}, {'CityName': '宜蘭縣', 'City': 'YilanCounty'}]"
+國6,"[{'CityName': '臺中市', 'City': 'Taichung'}, {'CityName': '南投縣', 'City': 'NantouCounty'}]"
+國8,"[{'CityName': '臺南市', 'City': 'Tainan'}]"

@@ -1,0 +1,79 @@
+.mainitem-BG {
+    /* Add your background color or any other styling for the container if needed */
+    position: relative;
+    display: inline-block;
+    /* overflow: hidden; */
+}
+
+.custom-button {
+    /* 在這裡添加你所期望的按鈕樣式 */
+    display: inline-block;
+    padding: 20px 20px;
+    background-color: #5feb8b;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 50%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+    position: relative;
+}
+
+.custom-button:hover {
+    background-color: #2980b9;
+}
+
+/* 假設你想對按鈕內的圖片添加一些樣式 */
+.custom-button img {
+    width: 150px;
+    height: 150px;
+}
+
+/* 假設你想在按鈕被點擊時添加一些覆蓋或效果 */
+.custom-button:active::after {
+    /* 在這裡添加覆蓋或效果的樣式 */
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* 在按鈕被點擊時添加任何其他效果 */
+}
+
+.custom-button:active {
+    background-color: #ebb35f; /* 按下時的顏色 */
+    transition: background-color 0s; /* 取消過渡效果，可自行調整過渡時間 */
+}
+
+
+
+  @media screen and (max-width: 1024px) {
+    .custom-button img {
+      width: 100px;
+      height: 100px;
+    }
+  } 
+
+  @media screen and (max-width: 425px) {
+    .custom-button img {
+      width: 50px;
+      height: 50px;
+    }
+  }
+
+  .name {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #2e762e;
+    font-weight: bold;
+    opacity: 0;
+    transition: opacity 0.3s;
+    padding: 5px;
+    margin: 8px 0 0 0 ; 
+    display: flex;
+    justify-content: center;
+  }
+  
+  .mainitem-BG:hover .name {
+    opacity: 1;
+  }

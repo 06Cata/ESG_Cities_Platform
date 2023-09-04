@@ -1,0 +1,7 @@
+ProviderID,OperatorID,OperatorName,OperatorPhone,OperatorEmail,OperatorUrl,OperatorCode,AuthorityCode,OperatorNo,UpdateTime
+008,10001,"{'Zh_tw': '府城客運', 'En': 'Tainan City Bus'}","06-221-9177, 06-279-8267",tnbuscs@gmail.com,http://www.tainancitybus.com.tw/index.asp,TainanCityBus,TNN,0803,2023-07-13T22:26:42+08:00
+008,10160,"{'Zh_tw': '興南客運', 'En': 'ShingNan Bus'}",06-265-3121,snnew_tw@yahoo.com.tw,http://www.snbus.com.tw,ShingNanBus,TNN,1601,2023-07-13T22:26:42+08:00
+008,10190,"{'Zh_tw': '新營客運', 'En': 'Sinying Bus'}",06-633-1100,service@singing168.com.tw,http://www.singing168.com.tw,SinyingBus,TNN,1306,2023-07-13T22:26:42+08:00
+008,16202,"{'Zh_tw': '台一大車隊', 'En': 'Daisuki Taxi'}",06-300-9999,biz@fucitytainan.com,TNN,2023-07-13T22:26:42+08:00
+008,16233,"{'Zh_tw': '漢程客運', 'En': 'Han-Cheng Bus Traffic Co., Ltd.'}",0800-889-116,service@tr.ibus.com.tw,http://www.ibus.com.tw,HanChengBus,TNN,1404,2023-07-13T22:26:42+08:00
+008,16253,"{'Zh_tw': '中華衛星台南車隊', 'En': 'Crown Transportation Co., Ltd'}",06-292-3333,TNN,2023-07-13T22:26:42+08:00

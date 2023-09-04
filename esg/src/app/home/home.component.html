@@ -1,0 +1,88 @@
+
+<header>
+  <nav id="navbar">
+    <ul class="nav-list">
+      <li><a href="#main">何謂ESG</a>
+      </li>
+      <li>
+        <a href="#about">專案小組</a>
+      </li>
+    </ul>
+  </nav>
+  <div class="head_title">
+    <div class="welcome-font">
+    <span class="welcome">W E L C O M E</span>
+    </div>
+    <span class="illustrate">各縣市ESG公開資訊整合平台</span>
+    <img class="title" src="../../assets/LOGO.gif" alt="LOGO">
+  </div>
+</header>
+<main>
+  <div class="container" id="main">
+    <div class="about-esg">
+      <img class="esgimg" src="../../assets/aboutESG.png" alt="ESG" title="aboutESG">
+    </div>
+    <div class="main-content">
+      <div class="main-title-container">
+        <div class="main-title">
+          <h2><span class="leaf-icon">🍃</span> 綠色環境：</h2>
+    <ul>
+      <li>環境保護，包含廢氣、土壤、污水管理，以及環境汙染的控制。</li>
+      <li>政府提供許多環保資料，並依法公開資訊給大眾，落實資料公開化。</li>
+      <li>想深入了解台灣的環保政策與管制措施，可以從這裡著手。</li>
+    </ul>
+        </div>
+      </div>
+      <div class="main-list" >
+        <app-mainitem *ngFor="let image of images" [path]="image.path" [title]="image.title" [linkrouter]="image.linkrouter" [text]="image.text"></app-mainitem>
+      </div>
+    </div>
+  </div>
+  <div class="interview" id="about">
+    <div class="picturecontainer">
+      <div class="people"><span class="people-icon">🌟</span>寄信給專案小組</div>
+      <div class="picture-with-name">
+        <div class="picture"><a href="mailto:catalinakuowork@gmail.com"><img src="../../assets/Cata.png" alt="team leader"></a></div>
+        <p class="name"><a href="mailto:catalinakuowork@gmail.com">📧 組長:Catalina</a></p>
+      </div>
+      <div class="picture-with-name">
+        <div class="picture"><a href="mailto:winnie05270527@gmail.com"><img src="../../assets/Winnie.png" alt="data group"></a></div>
+        <p class="name"><a href="mailto:winnie05270527@gmail.com">📧 數據組:Winnie</a></p>
+      </div>
+      <div class="picture-with-name">
+        <div class="picture"><a href="mailto:selina0987636259@gmail.com"><img src="../../assets/Selina.jpg" alt="data group"></a></div>
+        <p class="name"><a href="mailto:selina0987636259@gmail.com">📧 數據組:Selina</a></p>
+      </div>
+      <div class="picture-with-name">
+        <div class="picture"><a href="mailto:flion202304@gmail.com"><img src="../../assets/Flion.jpg" alt="full-stack"></a></div>
+        <p class="name"><a href="mailto:flion202304@gmail.com"> 📧 全端組:Flion</a></p>
+      </div>
+      <div class="picture-with-name">
+        <div class="picture"><a href="mailto:mikazukiyeh@gmail.com"><img src="../../assets/Luna.png" alt="full-stack"></a></div>
+        <p class="name"><a href="mailto:mikazukiyeh@gmail.com"> 📧 前端設計:Luna</a></p>
+      </div>
+    </div>
+    <div class="think">
+      <div class="thinktitle"><span class="idea-icon">💡</span> 我們的想法:</div>
+      <p>本專案旨在建立一個「各縣市ESG公開資訊整合平台」，一個綜合性的資訊中心，提供各個縣市的環保相關資訊。我們的目標是打破信息差，讓關心環保的人能夠更輕鬆地取得資料、了解有關空氣品質、水資源、環保標章等議題的及時資訊。</p>
+      <p>網站主要涵蓋三個主題: 台灣環保旅館/餐廳/公廁分布現況、各縣市廢棄物處理/垃圾產生現況、各縣市列管工廠現況。</p>
+    </div>
+  </div>
+</main>
+<footer>
+  <div class="footer-content">
+    <div class="earth-img">
+      <img class="earth" src="../../assets/earth.png" alt="earth">
+    </div>
+    <div class="option">
+      <div class="email">
+        <span>如果有任何建議，歡迎來信</span>
+        <p>If you have any comments or suggestions, <br> you can send them to the following <br>email: service@bimap.co</p>
+      </div>
+      <div class="info">
+        <span>參考網站</span>
+        <p>行政院環境保護署<br>經濟部水利署<br></p>
+      </div>
+    </div>
+  </div>
+</footer>

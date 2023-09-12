@@ -1,0 +1,1 @@
+29938,https://data.taipower.com.tw/opendata/apply/file/d693003/台灣電力公司_太陽光電發電量及平均單位裝置容量每日發電量統計表.csv

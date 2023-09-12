@@ -1,0 +1,5 @@
+34829,https://data.moenv.gov.tw/api/v2/aqx_p_17?language=zh&api_key=d993d77c-e344-49c9-be7f-618bd154ae02&format=CSV&filters=monitordate,EQ,datex%20
+34830,https://data.moenv.gov.tw/api/v2/aqx_p_18?language=zh&api_key=d993d77c-e344-49c9-be7f-618bd154ae02&format=CSV&filters=monitordate,EQ,datex%20
+40507,https://data.moenv.gov.tw/api/v2/aqx_p_434?api_key=e8dd42e6-9b8b-43f8-991e-b3dee723a52d&format=CSV&filters=monitordate,EQ,datex
+6351,https://data.moenv.gov.tw/api/v2/ems_s_07?api_key=e8dd42e6-9b8b-43f8-991e-b3dee723a52d&format=CSV&filters=anno_date,EQ,datex
+91081,https://data.moenv.gov.tw/api/v2/aqx_p_304?api_key=e8dd42e6-9b8b-43f8-991e-b3dee723a52d&format=CSV&filters=monitordate,EQ,datex

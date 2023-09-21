@@ -1,0 +1,69 @@
+input {
+  file {
+    path => "/home/bimap/esg/data/once/30794.csv"
+    start_position => "beginning"
+#    sincedb_path => "/dev/null"
+    codec => plain {charset => "UTF-8"}
+    tags => "public_toilets" 
+  }
+}
+
+filter {
+if "public_toilets" in [tags] {
+  csv {
+    source => "message"
+    columns => [
+      "country",
+      "city",
+      "village",
+      "number",
+      "name",
+      "address",
+      "administration",
+      "latitude",
+      "longitude",
+      "grade",
+      "type2",
+      "type"
+    ]
+    skip_header => true
+    separator => ","
+  }
+
+  mutate {
+    convert => {
+      "latitude" => "float"
+      "longitude" => "float"
+    }
+  }
+
+  mutate {
+    add_field => {
+      "[location][coordinates]" => "%{[latitude]},%{[longitude]}"
+    }
+  }
+
+  mutate {
+    remove_field => ["latitude", "longitude"]
+  }
+
+  date {
+    match => ["timestamp", "ISO8601"]
+    target => "@timestamp"
+    timezone => "Asia/Taipei"
+  }
+}
+}
+
+output {
+if "public_toilets" in [tags] {
+  elasticsearch {
+    hosts => ["https://127.0.0.1:9200"]
+    index => "30794_public_toilets_index"
+    ssl => true
+    ssl_certificate_verification => false
+    user => "elastic"
+    password => "#EDC4rfv"
+  }
+}
+}

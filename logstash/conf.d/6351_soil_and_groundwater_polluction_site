@@ -1,0 +1,116 @@
+input {
+  file {
+    path => "/home/bimap/esg/data/1day_2/6351.csv"
+    start_position => beginning
+  #  sincedb_path => "/dev/null"
+    codec => plain { charset => "UTF-8" }
+    tags => "soil_and_groundwater_site"
+  }
+}
+
+filter {
+if "soil_and_groundwater_site" in [tags] {
+  csv {
+    source => "message"
+    columns => [
+      "site_name",
+      "anno_no",
+      "deanno_no",
+      "county",
+      "site_type",
+      "site_use",
+      "pollutant",
+      "pollutantaddress",
+      "dtmx",
+      "dtmy",
+      "controltype",
+      "anno_date",
+      "deanno_date",
+      "sitearea",
+      "landno",
+      "township",
+      "wgs84_lng",
+      "wgs84_lat",
+      "site_id"
+    ]
+    skip_header => true
+    separator => ","
+  }
+
+  mutate {
+    convert => {
+      "wgs84_lng" => "float"
+      "wgs84_lat" => "float"
+      "site_id" => "integer"
+      "sitearea" => "float"
+    }
+  }
+
+  mutate {
+    add_field => {
+      "[location][coordinates]" => "%{[wgs84_lat]},%{[wgs84_lng]}"
+    }
+  }
+
+  mutate {
+    remove_field => ["wgs84_lat", "wgs84_lng"]
+  }
+
+  date {
+    match => ["anno_date", "ISO8601", "YYYY-MM-dd"]
+    target => "@timestamp"
+    timezone => "Asia/Taipei"
+  }
+
+  date {
+    match => ["deanno_date", "ISO8601", "YYYY-MM-dd"]
+    target => "@timestamp"
+    timezone => "Asia/Taipei"
+  }
+
+# Define the county to ISO code mapping
+  translate {
+    field => "county"
+    destination => "ISO_code"
+    dictionary => {
+      "彰化縣" => "TW-CHA"
+      "嘉義市" => "TW-CYI"
+      "嘉義縣" => "TW-CYQ"
+      "新竹市" => "TW-HSZ"
+      "新竹縣" => "TW-HSQ"
+      "花蓮縣" => "TW-HUA"
+      "高雄市" => "TW-KHH"
+      "基隆市" => "TW-KEE"
+      "金門縣" => "TW-KIN"
+      "連江縣" => "TW-LIE"
+      "苗栗縣" => "TW-MIA"
+      "南投縣" => "TW-NAN"
+      "新北市" => "TW-NWT"
+      "澎湖縣" => "TW-PEN"
+      "屏東縣" => "TW-PIF"
+      "臺中市" => "TW-TXG"
+      "臺南市" => "TW-TNN"
+      "臺北市" => "TW-TPE"
+      "臺東縣" => "TW-TTT"
+      "桃園市" => "TW-TAO"
+      "宜蘭縣" => "TW-ILA"
+      "雲林縣" => "TW-YUN"
+    }
+  }
+}
+}
+
+output {
+if "soil_and_groundwater_site" in [tags] {
+  elasticsearch {
+    hosts => ["https://127.0.0.1:9200"]
+    index => "6351-soil_and_groundwater_pollution_site_index"
+    ssl => true
+    ssl_certificate_verification => false
+    user => elastic
+    password => "#EDC4rfv"
+  }
+}
+}
+
+

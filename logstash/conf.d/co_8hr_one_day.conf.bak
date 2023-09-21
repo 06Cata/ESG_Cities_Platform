@@ -1,0 +1,53 @@
+input {
+  file {
+    path => "/home/bimap/esg/data/91086.csv"
+    start_position => beginning
+#    sincedb_path => "/dev/null"
+    codec => plain { charset => "UTF-8" }
+  }
+}
+
+filter {
+  csv {
+    source => "message"
+    columns => [
+      "siteid",
+      "sitename",
+      "county",
+      "itemid",
+      "itemname",
+      "itemengname",
+      "itemunit",
+      "monitordate",
+      "concentration"
+    ]
+#    skip_header => true
+    separator => ","
+  }
+
+  mutate {
+    convert => {
+      "concentration" => "float"
+      "itemid" => "integer"
+      "siteid" => "integer"
+    }
+  }
+
+  date {
+    match => ["monitordate", "yyyy-MM-dd HH:mm"]
+    target => "@timestamp"
+  }
+
+}
+
+output {
+  elasticsearch {
+    hosts => ["https://127.0.0.1:9200"]
+    index => "logstash-co_8hr_one_day_index"
+    ssl => true
+    ssl_certificate_verification => false
+    user => elastic
+    password => "#EDC4rfv"
+  }
+}
+
